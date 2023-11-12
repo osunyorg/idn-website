@@ -4,6 +4,11 @@ enableRobotsTXT: true
 removePathAccents: true
 params:
   summary:
-    position: hero
+    position: after-hero
   search:
-    active: false  
+    active: true  
+  logo:
+    header: "/assets/images/logo.svg"
+    footer: "/assets/images/logo.svg"
+  breadcrumb:
+    position: after-hero
