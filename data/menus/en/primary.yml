@@ -1,0 +1,20 @@
+---
+title: Main menu
+items:
+- title: Posts
+  target: "/en/posts/"
+  kind: page
+  children: []
+- title: Agenda
+  target: "/en/agenda/"
+  kind: page
+  children: []
+- title: Team
+  target: "/en/team/"
+  kind: page
+  children: []
+- title: Organizations
+  target: "/en/organizations/"
+  kind: page
+  children: []
+
