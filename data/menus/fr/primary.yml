@@ -1,4 +1,8 @@
 ---
 title: Menu principal
-items: []
+items:
+- title: Agenda
+  target: "/fr/agenda/"
+  kind: page
+  children: []
 
