@@ -4,7 +4,11 @@ items:
 - title: About
   target: "/en/"
   kind: page
-  children: []
+  children:
+  - title: Principles
+    target: "/en/about/"
+    kind: page
+    children: []
 - title: Join Us
   target: ''
   kind: blank
