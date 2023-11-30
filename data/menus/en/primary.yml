@@ -10,7 +10,7 @@ items:
     kind: page
     children: []
   - title: Structure
-    target: "/en/about-1/governance/"
+    target: "/en/about-1/structure/"
     kind: page
     children: []
   - title: About Us
