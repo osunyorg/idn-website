@@ -1,7 +1,7 @@
 ---
 title: Main menu
 items:
-- title: Primary Menu
+- title: About
   target: "/en/"
   kind: page
   children: []
