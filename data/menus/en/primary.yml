@@ -5,4 +5,8 @@ items:
   target: "/en/"
   kind: page
   children: []
+- title: Join Us
+  target: ''
+  kind: blank
+  children: []
 
