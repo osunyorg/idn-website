@@ -5,10 +5,6 @@ items:
   target: "/en/"
   kind: page
   children:
-  - title: Principles
-    target: "/en/about-1/about/"
-    kind: page
-    children: []
   - title: Structure
     target: "/en/about-1/structure/"
     kind: page
