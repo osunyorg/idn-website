@@ -16,5 +16,9 @@ items:
 - title: Join Us
   target: ''
   kind: blank
-  children: []
+  children:
+  - title: Organisations
+    target: "/en/organisations/"
+    kind: page
+    children: []
 
