@@ -6,7 +6,7 @@ items:
   kind: page
   children:
   - title: Principles
-    target: "/en/about/"
+    target: "/en/about-1/about/"
     kind: page
     children: []
 - title: Join Us
