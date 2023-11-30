@@ -9,6 +9,10 @@ items:
     target: "/en/about-1/about/"
     kind: page
     children: []
+  - title: Structure
+    target: "/en/about-1/governance/"
+    kind: page
+    children: []
 - title: Join Us
   target: ''
   kind: blank
