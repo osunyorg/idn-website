@@ -1,0 +1,17 @@
+@include media-breakpoint-up(desktop)
+    header#document-header
+        nav 
+            .logo
+                margin-bottom: $spacing1
+            .container
+                flex-direction: column
+            .menu 
+                .nav-level-1 
+                    > li:last-child 
+                        a, 
+                        span
+                            padding-left: $spacing0
+                            padding-right: $spacing0
+    footer#document-footer
+        .container:first-of-type
+            justify-content: center
