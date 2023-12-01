@@ -6,7 +6,7 @@ items:
   kind: page
   children:
   - title: About Us
-    target: "/en/about-1/about/"
+    target: "/en/about-1/about-us/"
     kind: page
     children: []
   - title: Structure
