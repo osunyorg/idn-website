@@ -13,6 +13,10 @@ items:
     target: "/en/about-1/structure-and-governance/"
     kind: page
     children: []
+  - title: Principles
+    target: "/en/about-1/principles/"
+    kind: page
+    children: []
 - title: Join Us
   target: ''
   kind: blank
