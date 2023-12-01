@@ -21,4 +21,8 @@ items:
     target: "/en/join-us/organisations/"
     kind: page
     children: []
+  - title: Individuals
+    target: "/en/join-us/individuals/"
+    kind: page
+    children: []
 
