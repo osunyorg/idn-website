@@ -17,6 +17,10 @@ items:
     target: "/en/about-1/principles/"
     kind: page
     children: []
+  - title: Network
+    target: "/en/network/"
+    kind: page
+    children: []
 - title: Join Us
   target: ''
   kind: blank
