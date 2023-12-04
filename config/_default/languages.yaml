@@ -7,6 +7,16 @@ en:
   languageName: English
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
+    events_categories: /agenda/:slug/
+  taxonomies:
+    administrator: administrators
+    author: authors
+    category: categories
+    posts_category: posts_categories
+    events_category: events_categories
+    diploma: diplomas
+    researcher: researchers
+    teacher: teachers
 fr:
   title: International Degrowth Network
   contentDir: content/fr
@@ -14,3 +24,13 @@ fr:
   languageName: Français
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
+    events_categories: /agenda/:slug/
+  taxonomies:
+    administrator: administrators
+    author: authors
+    category: categories
+    posts_category: posts_categories
+    events_category: events_categories
+    diploma: diplomas
+    researcher: researchers
+    teacher: teachers
