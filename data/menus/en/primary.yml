@@ -2,8 +2,8 @@
 title: Main menu
 items:
 - title: About
-  target: ''
-  kind: blank
+  target: degrowth.net/about
+  kind: url
   children:
   - title: About Us
     target: "/en/about-1/about-us/"
