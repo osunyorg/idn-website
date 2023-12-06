@@ -22,7 +22,7 @@ items:
   kind: blank
   children:
   - title: Organisations
-    target: "/en/join-us/organisations/"
+    target: "/en/group-membership/"
     kind: page
     children: []
   - title: Individuals
