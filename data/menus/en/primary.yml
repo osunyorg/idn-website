@@ -13,6 +13,10 @@ items:
     target: "/en/about/principles/"
     kind: page
     children: []
+  - title: Structure
+    target: "/en/about/structure-and-governance/"
+    kind: page
+    children: []
 - title: Join Us
   target: ''
   kind: blank
@@ -28,11 +32,7 @@ items:
 - title: Members
   target: "/en/members/"
   kind: page
-  children:
-  - title: Structure
-    target: "/en/about/structure-and-governance/"
-    kind: page
-    children: []
+  children: []
 - title: Privacy
   target: "/en/privacy-statement/"
   kind: page
