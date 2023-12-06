@@ -29,12 +29,12 @@ items:
     target: "/en/join-us/individuals/"
     kind: page
     children: []
-- title: Privacy
-  target: "/en/privacy-statement/"
-  kind: page
-  children: []
 - title: Members
   target: "/en/network/"
+  kind: page
+  children: []
+- title: Privacy
+  target: "/en/privacy-statement/"
   kind: page
   children: []
 
