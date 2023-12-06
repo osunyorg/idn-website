@@ -1,17 +1,12 @@
 @include media-breakpoint-up(desktop)
-    header#document-header
-        nav 
-            .logo
-                margin-bottom: $spacing1
-            .container
-                flex-direction: column
-            .menu 
-                .nav-level-1 
-                    > li:last-child 
-                        a, 
-                        span
-                            padding-left: $spacing0
-                            padding-right: $spacing0
-    footer#document-footer
-        .container:first-of-type
-            justify-content: center
+    .menu 
+        .nav-level-1 
+            li.has-children 
+                [aria-expanded="true"] + .dropdown-menu
+                    padding-top: $spacing3
+                    padding-bottom: $spacing3
+@include media-breakpoint-down(desktop)
+    .menu 
+        .dropdown-menu 
+            .dropdown-menu-title
+                display: none

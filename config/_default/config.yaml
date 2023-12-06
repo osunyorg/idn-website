@@ -12,3 +12,6 @@ params:
     footer: "/assets/images/logo.svg"
   breadcrumb:
     position: after-hero
+  menu:
+    dropdown:
+      linkToLevel1: true
