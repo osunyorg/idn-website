@@ -26,7 +26,7 @@ items:
     kind: page
     children: []
   - title: Individuals
-    target: "/en/join-us/individuals/"
+    target: "/en/join-us/individual-membership/"
     kind: page
     children: []
 - title: Members
