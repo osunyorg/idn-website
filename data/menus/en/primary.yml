@@ -6,8 +6,8 @@ items:
   kind: url
   children:
   - title: About Us
-    target: ''
-    kind: blank
+    target: "/en/about/about-us/"
+    kind: page
     children: []
   - title: Structure
     target: "/en/about/structure-and-governance/"
