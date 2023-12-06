@@ -5,7 +5,7 @@ items:
   target: ''
   kind: blank
   children:
-  - title: About Us
+  - title: About
     target: "/en/about/about-us/"
     kind: page
     children: []
