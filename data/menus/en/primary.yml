@@ -17,10 +17,6 @@ items:
     target: "/en/about/principles/"
     kind: page
     children: []
-  - title: Network
-    target: "/en/network/"
-    kind: page
-    children: []
 - title: Join Us
   target: ''
   kind: blank
@@ -36,7 +32,11 @@ items:
 - title: Members
   target: ''
   kind: blank
-  children: []
+  children:
+  - title: Network
+    target: "/en/network/"
+    kind: page
+    children: []
 - title: Privacy
   target: "/en/privacy-statement/"
   kind: page
