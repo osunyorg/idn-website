@@ -30,7 +30,7 @@ items:
     kind: page
     children: []
 - title: Members
-  target: "/en/network/"
+  target: "/en/members/"
   kind: page
   children: []
 - title: Privacy
