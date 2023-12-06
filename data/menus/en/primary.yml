@@ -5,9 +5,9 @@ items:
   target: degrowth.net/about
   kind: url
   children:
-  - title: About Us
-    target: "/en/about/about-us/"
-    kind: page
+  - title: About IDN
+    target: ''
+    kind: blank
     children: []
   - title: Structure
     target: "/en/about/structure-and-governance/"
