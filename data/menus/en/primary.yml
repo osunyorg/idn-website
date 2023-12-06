@@ -5,7 +5,7 @@ items:
   target: degrowth.net/about
   kind: url
   children:
-  - title: About IDN
+  - title: About Us
     target: ''
     kind: blank
     children: []
