@@ -33,4 +33,8 @@ items:
   target: "/en/privacy-statement/"
   kind: page
   children: []
+- title: Members
+  target: "/en/network/"
+  kind: page
+  children: []
 
