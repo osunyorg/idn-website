@@ -4,7 +4,11 @@ items:
 - title: About
   target: ''
   kind: blank
-  children: []
+  children:
+  - title: Principles
+    target: "/en/about/principles/"
+    kind: page
+    children: []
 - title: Join Us
   target: ''
   kind: blank
@@ -19,10 +23,6 @@ items:
     children: []
 - title: About
   target: "/en/about/about-us/"
-  kind: page
-  children: []
-- title: Principles
-  target: "/en/about/principles/"
   kind: page
   children: []
 - title: Members
