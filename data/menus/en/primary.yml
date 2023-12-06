@@ -6,15 +6,15 @@ items:
   kind: blank
   children:
   - title: About Us
-    target: "/en/about/about-us/"
+    target: "/en/about-1/about-us/"
     kind: page
     children: []
   - title: Principles
-    target: "/en/about/principles/"
+    target: "/en/about-1/principles/"
     kind: page
     children: []
   - title: Structure
-    target: "/en/about/structure-and-governance/"
+    target: "/en/about-1/structure-and-governance/"
     kind: page
     children: []
 - title: Join Us
