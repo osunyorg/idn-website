@@ -20,7 +20,11 @@ items:
 - title: Our Circles
   target: ''
   kind: blank
-  children: []
+  children:
+  - title: Structure
+    target: "/en/structure/"
+    kind: page
+    children: []
 - title: Join Us
   target: ''
   kind: blank
@@ -35,10 +39,6 @@ items:
     children: []
 - title: Members
   target: "/en/members/"
-  kind: page
-  children: []
-- title: Structure
-  target: "/en/structure/"
   kind: page
   children: []
 
