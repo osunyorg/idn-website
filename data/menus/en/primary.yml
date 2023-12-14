@@ -14,7 +14,7 @@ items:
     kind: page
     children: []
   - title: Structure
-    target: "/en/about/structure-and-governance/"
+    target: "/en/about/structure/"
     kind: page
     children: []
 - title: Join Us
