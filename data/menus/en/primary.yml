@@ -37,7 +37,7 @@ items:
     target: "/en/join-us/individual-membership/"
     kind: page
     children: []
-- title: Members
+- title: Find a group
   target: "/en/members/"
   kind: page
   children: []
