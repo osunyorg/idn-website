@@ -29,7 +29,7 @@ items:
   target: ''
   kind: blank
   children:
-  - title: Organisations
+  - title: Group Membership
     target: "/en/join-us/group-membership/"
     kind: page
     children: []
