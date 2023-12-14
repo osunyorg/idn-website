@@ -37,4 +37,8 @@ items:
   target: "/en/members/"
   kind: page
   children: []
+- title: Our Circles
+  target: ''
+  kind: blank
+  children: []
 
