@@ -13,6 +13,10 @@ items:
     target: "/en/about/principles/"
     kind: page
     children: []
+  - title: Governance
+    target: "/en/about/governance/"
+    kind: page
+    children: []
 - title: Structure
   target: "/en/structure/"
   kind: page
