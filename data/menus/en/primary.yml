@@ -13,10 +13,10 @@ items:
     target: "/en/about/principles/"
     kind: page
     children: []
-  - title: Structure
-    target: "/en/about/structure/"
-    kind: page
-    children: []
+- title: Structure
+  target: "/en/about/structure/"
+  kind: page
+  children: []
 - title: Join Us
   target: ''
   kind: blank
