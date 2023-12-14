@@ -33,7 +33,7 @@ items:
     target: "/en/join-us/group-membership/"
     kind: page
     children: []
-  - title: Individuals
+  - title: Individual Membership
     target: "/en/join-us/individual-membership/"
     kind: page
     children: []
