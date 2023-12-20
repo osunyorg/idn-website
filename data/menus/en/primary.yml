@@ -6,15 +6,15 @@ items:
   kind: blank
   children:
   - title: About Us
-    target: "/en/about-us/"
+    target: "/about-us/"
     kind: page
     children: []
   - title: Principles
-    target: "/en/principles/"
+    target: "/principles/"
     kind: page
     children: []
   - title: Governance
-    target: "/en/governance/"
+    target: "/governance/"
     kind: page
     children: []
 - title: Our Circles
@@ -22,7 +22,7 @@ items:
   kind: blank
   children:
   - title: Structure
-    target: "/en/structure/"
+    target: "/structure/"
     kind: page
     children: []
 - title: Join Us
@@ -30,15 +30,15 @@ items:
   kind: blank
   children:
   - title: Group Membership
-    target: "/en/group-membership/"
+    target: "/group-membership/"
     kind: page
     children: []
   - title: Individual Membership
-    target: "/en/individual-membership/"
+    target: "/individual-membership/"
     kind: page
     children: []
 - title: Find a group
-  target: "/en/members/"
+  target: "/members/"
   kind: page
   children: []
 
