@@ -14,7 +14,7 @@ items:
     kind: page
     children: []
   - title: Governance
-    target: "/en/about/governance/"
+    target: "/en/governance/"
     kind: page
     children: []
 - title: Our Circles
