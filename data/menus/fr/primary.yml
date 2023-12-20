@@ -2,7 +2,7 @@
 title: Menu principal
 items:
 - title: Agenda
-  target: "/fr/agenda/"
+  target: "/agenda/"
   kind: page
   children: []
 
