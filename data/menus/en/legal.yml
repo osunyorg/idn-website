@@ -5,12 +5,4 @@ items:
   target: "/en/privacy-policy/"
   kind: page
   children: []
-- title: Accessibility
-  target: "/en/accessibility/"
-  kind: page
-  children: []
-- title: Sitemap
-  target: "/en/sitemap/"
-  kind: page
-  children: []
 
