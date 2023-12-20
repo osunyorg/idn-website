@@ -6,8 +6,8 @@ items:
   kind: blank
   children:
   - title: About Us
-    target: ''
-    kind: blank
+    target: "/en/about-us/"
+    kind: page
     children: []
   - title: Principles
     target: "/en/principles/"
