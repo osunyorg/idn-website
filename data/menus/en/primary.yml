@@ -30,11 +30,11 @@ items:
   kind: blank
   children:
   - title: Group Membership
-    target: "/en/join-us/group-membership/"
+    target: "/en/group-membership/"
     kind: page
     children: []
   - title: Individual Membership
-    target: "/en/join-us/individual-membership/"
+    target: "/en/individual-membership/"
     kind: page
     children: []
 - title: Find a group
