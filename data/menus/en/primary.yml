@@ -10,11 +10,11 @@ items:
     kind: page
     children: []
   - title: Principles
-    target: "/principles/"
+    target: "/about/principles/"
     kind: page
     children: []
   - title: Governance
-    target: "/governance/"
+    target: "/about/governance/"
     kind: page
     children: []
 - title: Our Circles
