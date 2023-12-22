@@ -30,7 +30,7 @@ items:
   kind: blank
   children:
   - title: Group Membership
-    target: "/group-membership/"
+    target: "/join-us/group-membership/"
     kind: page
     children: []
   - title: Individual Membership
