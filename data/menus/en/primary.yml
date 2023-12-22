@@ -38,7 +38,7 @@ items:
     kind: page
     children: []
 - title: Find a group
-  target: "/members/"
+  target: "/members-don-t-use-this-page/"
   kind: page
   children: []
 
