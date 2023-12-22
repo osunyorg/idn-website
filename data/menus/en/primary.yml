@@ -26,8 +26,8 @@ items:
     kind: page
     children: []
 - title: Join Us
-  target: ''
-  kind: blank
+  target: "/join-us/"
+  kind: page
   children:
   - title: Group Membership
     target: "/join-us/group-membership/"
