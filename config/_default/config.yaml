@@ -3,8 +3,8 @@ paginate: 18
 enableRobotsTXT: true
 removePathAccents: true
 params:
-  summary:
-    position: after-hero
+  # summary:
+  #   position: after-hero
   search:
     active: true  
   logo:
