@@ -5,7 +5,7 @@ items:
   target: ''
   kind: blank
   children:
-  - title: About Us
+  - title: IDN
     target: "/about/idn/"
     kind: page
     children: []
