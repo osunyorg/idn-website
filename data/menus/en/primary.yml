@@ -6,7 +6,7 @@ items:
   kind: blank
   children:
   - title: About Us
-    target: "/about/about-us/"
+    target: "/about/idn/"
     kind: page
     children: []
   - title: Principles
