@@ -20,11 +20,11 @@ items:
 - title: Our Circles
   target: ''
   kind: blank
-  children:
-  - title: Structure
-    target: "/circles/structure/"
-    kind: page
-    children: []
+  children: []
+- title: Structure
+  target: "/circles/structure/"
+  kind: page
+  children: []
 - title: Join Us
   target: "/join-us/"
   kind: page
