@@ -2,8 +2,8 @@
 title: Main menu
 items:
 - title: About
-  target: ''
-  kind: blank
+  target: "/about/"
+  kind: page
   children:
   - title: IDN
     target: "/about/idn/"
