@@ -17,10 +17,6 @@ items:
     target: "/about/governance/"
     kind: page
     children: []
-- title: Our Circles
-  target: ''
-  kind: blank
-  children: []
 - title: Structure
   target: "/circles/structure/"
   kind: page
