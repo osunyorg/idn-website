@@ -33,8 +33,4 @@ items:
     target: "/join-us/individual-membership/"
     kind: page
     children: []
-- title: Find a group
-  target: "/members-don-t-use-this-page/"
-  kind: page
-  children: []
 
