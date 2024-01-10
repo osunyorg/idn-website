@@ -33,7 +33,7 @@ items:
     target: "/join-us/individual-membership/"
     kind: page
     children: []
-- title: IDN Orgs
+- title: IDN Members
   target: "/members-1/"
   kind: page
   children: []
