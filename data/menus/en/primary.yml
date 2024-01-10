@@ -18,7 +18,7 @@ items:
     kind: page
     children: []
 - title: Our Circles
-  target: "/structure/"
+  target: "/our-circles/"
   kind: page
   children: []
 - title: Join Us
