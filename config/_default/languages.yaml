@@ -8,7 +8,7 @@ en:
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
-    organizations: /members/:slug/
+    organizations: /members-not-in-use/:slug/
   taxonomies:
     administrator: administrators
     author: authors
