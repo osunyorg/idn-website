@@ -34,7 +34,7 @@ items:
     kind: page
     children: []
 - title: IDN Orgs
-  target: "/members-don-t-use-this-page/"
+  target: "/members-1/"
   kind: page
   children: []
 
