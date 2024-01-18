@@ -4,7 +4,7 @@ baseURL: https://degrowth.net
 
 ## LANGUAGE
 defaultContentLanguage: en
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
 
 ## CACHE
 deployment:

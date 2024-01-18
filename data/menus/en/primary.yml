@@ -2,39 +2,39 @@
 title: Main menu
 items:
 - title: About
-  target: "/about/"
+  target: "/en/about/"
   kind: page
   children:
   - title: IDN
-    target: "/about/idn/"
+    target: "/en/about/idn/"
     kind: page
     children: []
   - title: Principles
-    target: "/about/principles/"
+    target: "/en/about/principles/"
     kind: page
     children: []
   - title: Governance
-    target: "/about/governance/"
+    target: "/en/about/governance/"
     kind: page
     children: []
 - title: Our Circles
-  target: "/our-circles/"
+  target: "/en/our-circles/"
   kind: page
   children: []
 - title: Join Us
-  target: "/join-us/"
+  target: "/en/join-us/"
   kind: page
   children:
   - title: Group Membership
-    target: "/join-us/group-membership/"
+    target: "/en/join-us/group-membership/"
     kind: page
     children: []
   - title: Individual Membership
-    target: "/join-us/individual-membership/"
+    target: "/en/join-us/individual-membership/"
     kind: page
     children: []
 - title: IDN Members
-  target: "/organisations/"
+  target: "/en/organisations/"
   kind: page
   children: []
 
