@@ -9,10 +9,6 @@ items:
     target: "/fr/about/idn/"
     kind: page
     children: []
-- title: Organisations
-  target: "/fr/organisations/"
-  kind: page
-  children: []
 - title: Adhérer
   target: "/fr/join-us/"
   kind: page
@@ -25,4 +21,8 @@ items:
     target: "/fr/join-us/group-membership/"
     kind: page
     children: []
+- title: Organisations
+  target: "/fr/organisations/"
+  kind: page
+  children: []
 
