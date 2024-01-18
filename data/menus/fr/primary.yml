@@ -20,5 +20,9 @@ items:
 - title: Adhérer
   target: "/fr/join-us/"
   kind: page
-  children: []
+  children:
+  - title: Adhésion individuelle
+    target: "/fr/join-us/individual-membership/"
+    kind: page
+    children: []
 
