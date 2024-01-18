@@ -1,10 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Organisations
-  target: "/fr/organisations/"
-  kind: page
-  children: []
 - title: A propos
   target: "/fr/about/"
   kind: page
@@ -13,6 +9,10 @@ items:
     target: "/fr/about/idn/"
     kind: page
     children: []
+- title: Organisations
+  target: "/fr/organisations/"
+  kind: page
+  children: []
 - title: Adhérer
   target: "/fr/join-us/"
   kind: page
