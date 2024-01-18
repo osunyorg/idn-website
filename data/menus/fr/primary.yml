@@ -1,10 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Agenda
-  target: "/fr/agenda/"
-  kind: page
-  children: []
 - title: Organisations
   target: "/fr/organisations/"
   kind: page
