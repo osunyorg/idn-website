@@ -9,4 +9,12 @@ items:
   target: "/fr/organisations/"
   kind: page
   children: []
+- title: A propos
+  target: "/fr/about/"
+  kind: page
+  children:
+  - title: IDN
+    target: "/fr/about/idn/"
+    kind: page
+    children: []
 
