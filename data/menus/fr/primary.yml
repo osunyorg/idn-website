@@ -17,4 +17,8 @@ items:
     target: "/fr/about/idn/"
     kind: page
     children: []
+- title: Adhérer
+  target: "/fr/join-us/"
+  kind: page
+  children: []
 
