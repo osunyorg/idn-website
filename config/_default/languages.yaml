@@ -17,20 +17,3 @@ en:
     diploma: diplomas
     researcher: researchers
     teacher: teachers
-fr:
-  title: International Degrowth Network
-  contentDir: content/fr
-  languageCode: fr
-  languageName: Français
-  permalinks:
-    events: /agenda/:year-:month-:day-:slug/
-    events_categories: /agenda/:slug/
-    organizations: /organisations/:slug/
-  taxonomies:
-    administrator: administrators
-    author: authors
-    posts_category: posts_categories
-    events_category: events_categories
-    diploma: diplomas
-    researcher: researchers
-    teacher: teachers
