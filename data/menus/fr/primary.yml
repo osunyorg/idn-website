@@ -2,31 +2,31 @@
 title: Menu principal
 items:
 - title: A propos
-  target: "/fr/about/"
+  target: "/about/"
   kind: page
   children:
   - title: IDN
-    target: "/fr/about/idn/"
+    target: "/about/idn/"
     kind: page
     children: []
 - title: Our Circles
-  target: "/fr/our-circles/"
+  target: "/our-circles/"
   kind: page
   children: []
 - title: Adhérer
-  target: "/fr/join-us/"
+  target: "/join-us/"
   kind: page
   children:
   - title: Adhésion individuelle
-    target: "/fr/join-us/individual-membership/"
+    target: "/join-us/individual-membership/"
     kind: page
     children: []
   - title: Adhésion de groupe
-    target: "/fr/join-us/group-membership/"
+    target: "/join-us/group-membership/"
     kind: page
     children: []
 - title: Organisations
-  target: "/fr/organisations/"
+  target: "/organisations/"
   kind: page
   children: []
 
