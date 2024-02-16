@@ -1,0 +1,12 @@
+---
+title: Menu principal
+items:
+- title: Agenda
+  target: "/agenda/"
+  kind: page
+  children: []
+- title: Organisations
+  target: "/organisations/"
+  kind: page
+  children: []
+
