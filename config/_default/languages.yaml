@@ -8,6 +8,10 @@ en:
   languageName: English
   params:
     social:
+      email: >-
+        info@degrowth.net
+      instagram: >-
+        @degrowth.network
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
