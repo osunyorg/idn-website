@@ -5,7 +5,7 @@ items:
   target: "/about/"
   kind: page
   children:
-  - title: IDN
+  - title: Aims
     target: "/about/idn/"
     kind: page
     children: []
