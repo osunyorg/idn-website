@@ -10,8 +10,12 @@ en:
     social:
       email: >-
         info@degrowth.net
+      mastodon: >-
+        https://degrowth.social/@IDN
       instagram: >-
         https://www.instagram.com/degrowth.network/
+      tiktok: >-
+        https://www.tiktok.com/@degrowth.network?_t=8k2mnr4uIFa&amp;_r=1
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
