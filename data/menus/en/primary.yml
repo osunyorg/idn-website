@@ -17,6 +17,10 @@ items:
     target: "/about/governance/"
     kind: page
     children: []
+  - title: History
+    target: "/about/history/"
+    kind: page
+    children: []
 - title: Our Circles
   target: "/our-circles/"
   kind: page
