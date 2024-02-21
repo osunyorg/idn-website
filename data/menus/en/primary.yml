@@ -45,4 +45,8 @@ items:
   target: "/pontevedra-assembly-2024/"
   kind: page
   children: []
+- title: Resources
+  target: ''
+  kind: blank
+  children: []
 
