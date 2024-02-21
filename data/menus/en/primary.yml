@@ -53,4 +53,8 @@ items:
     target: "/resources/the-degrowth-database/"
     kind: page
     children: []
+  - title: Degrowth 101
+    target: "/resources/degrowth-101/"
+    kind: page
+    children: []
 
