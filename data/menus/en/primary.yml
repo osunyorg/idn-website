@@ -48,5 +48,9 @@ items:
 - title: Resources
   target: ''
   kind: blank
-  children: []
+  children:
+  - title: The Degrowth Database
+    target: "/resources/the-degrowth-database/"
+    kind: page
+    children: []
 
