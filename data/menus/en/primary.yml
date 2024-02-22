@@ -25,6 +25,10 @@ items:
     target: "/about/governance/"
     kind: page
     children: []
+- title: IDN Members
+  target: "/members/"
+  kind: page
+  children: []
 - title: Join Us
   target: "/join-us/"
   kind: page
@@ -37,10 +41,6 @@ items:
     target: "/join-us/individual-membership/"
     kind: page
     children: []
-- title: IDN Members
-  target: "/members/"
-  kind: page
-  children: []
 - title: Assembly 2024
   target: "/pontevedra-assembly-2024/"
   kind: page
