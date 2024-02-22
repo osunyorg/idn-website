@@ -9,6 +9,10 @@ items:
     target: "/about/idn/"
     kind: page
     children: []
+  - title: Our Circles
+    target: "/our-circles/"
+    kind: page
+    children: []
   - title: History
     target: "/about/history/"
     kind: page
@@ -21,10 +25,6 @@ items:
     target: "/about/governance/"
     kind: page
     children: []
-- title: Our Circles
-  target: "/our-circles/"
-  kind: page
-  children: []
 - title: Join Us
   target: "/join-us/"
   kind: page
