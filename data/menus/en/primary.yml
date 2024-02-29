@@ -46,8 +46,8 @@ items:
   kind: page
   children: []
 - title: Resources
-  target: ''
-  kind: blank
+  target: "/resources/"
+  kind: page
   children:
   - title: The Degrowth Database
     target: "/resources/the-degrowth-database/"
