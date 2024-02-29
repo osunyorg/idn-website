@@ -13,3 +13,5 @@ params:
   menu:
     dropdown:
       linkToLevel1: true
+  debug:
+     productionUrl: "https://degrowth.net"
