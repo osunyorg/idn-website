@@ -20,12 +20,15 @@ en:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
     organizations: /organisations/:slug/
+    organizations_categories: /organisations/:slug/
   taxonomies:
     administrator: administrators
     author: authors
     diploma: diplomas
     events_category: events_categories
     location: locations
+    organizations_category: organizations_categories
+    persons_category: persons_categories
     posts_category: posts_categories
     projects_category: projects_categories
     researcher: researchers
