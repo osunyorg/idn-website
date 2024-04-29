@@ -1,3 +1,14 @@
-# Osuny
+# IDN website
 
-[Documentation officielle sur developers.osuny.org](https://developers.osuny.org)
+## Installation
+
+- clone the repository
+- initialise the submodules
+
+For example, on a command line:
+
+```
+git clone git@github.com:degrowth/idn-website.git
+cd idn-website
+git submodule update --init --recursive
+```
