@@ -54,6 +54,8 @@ jobs:
         run: yarn install
 
       - name: Build the site
+        env:
+          HUGO_BASEURL: https://next.degrowth.net
         run: yarn osuny build
 
       - name: Setup Pages
