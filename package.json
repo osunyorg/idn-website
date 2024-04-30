@@ -1,8 +1,8 @@
 {
-  "name": "osuny-hugo-template",
-  "version": "2.1.0",
-  "repository": "https://github.com/noesya/osuny-hugo-template-aaa",
-  "author": "noesya",
+  "name": "idn-website",
+  "version": "1.0.0",
+  "repository": "https://github.com/degrowth/idn-website",
+  "author": "International Degroth Network",
   "license": "MIT",
   "dependencies": {
     "osuny-hugo-theme-aaa": "./themes/osuny-hugo-theme-aaa"
