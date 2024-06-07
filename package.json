@@ -5,7 +5,7 @@
   "author": "International Degrowth Network",
   "license": "MIT",
   "dependencies": {
-    "osuny-hugo-theme-aaa": "./themes/osuny-hugo-theme-aaa"
+    "osuny": "./themes/osuny"
   },
   "scripts": {
     "osuny": "npx osuny-hugo-theme"
