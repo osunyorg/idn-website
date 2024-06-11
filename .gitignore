@@ -8,3 +8,5 @@ node_modules
 jsconfig.json
 yarn-error.log
 /static/pagefind
+.lycheecache
+lychee.json
