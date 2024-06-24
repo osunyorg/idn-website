@@ -20,4 +20,4 @@ deployment:
 deployment:
   targets:
     - name: "production"
-      URL: "s3://explore.degrowth.net?endpoint=garage.deuxfleurs.fr&s3ForcePathStyle=true&region=garage"
+      URL: "s3://degrowth.net?endpoint=garage.deuxfleurs.fr&s3ForcePathStyle=true&region=garage"
