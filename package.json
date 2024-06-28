@@ -12,6 +12,6 @@
     "init": "git submodule update --init --recursive; yarn install",
     "build": "hugo --minify; yarn pagefind",
     "codespaces": "hugo; yarn pagefind --output-subdir ../static/pagefind; hugo server --appendPort=false --bind 0.0.0.0 --baseURL $(.github/codespaces.app.url)",
-    "develop": "sh -c 'if (env | grep CODESPACES >/dev/null 2>&1); then true; else hugo; yarn pagefind --output-subdir ../static/pagefind; hugo server --bind 0.0.0.0; fi'"
+    "develop": "sh -c 'if (env | grep ^CODESPACES=true >/dev/null 2>&1); then true; else hugo; yarn pagefind --output-subdir ../static/pagefind; hugo server --bind 0.0.0.0; fi'"
   }
 }
