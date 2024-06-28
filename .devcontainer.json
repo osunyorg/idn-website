@@ -9,7 +9,7 @@
     },
     "ghcr.io/devcontainers/features/node:1": {}
   },
-  "forwardPorts": ["localhost:1313"],
+  "appPort": ["1313:1313"],
   "portsAttributes": {
     "1313": {
       "label": "Osuny development server"
@@ -18,8 +18,6 @@
   "containerEnv": {
     "HUGO_BASEURL": "http://localhost:1313/"
   },
-  "postCreateCommand": {
-    "osuny": "yarn install"
-  },
+  "postCreateCommand": "yarn run init",
   "postStartCommand": "yarn develop"
 }
