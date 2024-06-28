@@ -8,6 +8,8 @@
     "osuny": "./themes/osuny"
   },
   "scripts": {
-    "osuny": "npx osuny-hugo-theme"
+    "osuny": "npx osuny-hugo-theme",
+    "build": "hugo --minify; yarn pagefind",
+    "develop": "hugo; yarn pagefind --output-subdir ../static/pagefind; hugo server --bind 0.0.0.0"
   }
 }

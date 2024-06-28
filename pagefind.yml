@@ -1,0 +1,25 @@
+site: public
+exclude_selectors:
+  - .categories__taxonomy
+  - .categories__term
+  - .posts_categories__taxonomy
+  - .posts_categories__term
+  - .events_categories__taxonomy
+  - .events_categories__term
+  - .diplomas__taxonomy
+  - .block-diplomas
+  - .events__section
+  - .block-agenda
+  - .organizations__section
+  - .block-organizations
+  - .block-pages
+  - .persons__section
+  - .block-persons
+  - .administrators__term
+  - .authors__term
+  - .researchers__term
+  - .teachers__term
+  - .posts__section
+  - .block-posts
+  - .post-sidebar
+  - .block-programs
