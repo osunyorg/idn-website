@@ -14,6 +14,8 @@ en:
         https://degrowth.social/@IDN
       instagram: >-
         https://www.instagram.com/degrowth.network/
+      tiktok: >-
+        https://www.tiktok.com/@degrowth.network
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
