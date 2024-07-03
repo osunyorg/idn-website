@@ -31,6 +31,7 @@ permissions:
   contents: read
   pages: write
   id-token: write
+  pull-requests: write
 
 # Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
 # However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
@@ -50,6 +51,8 @@ jobs:
   build:
     name: Build Hugo page
     runs-on: ubuntu-latest
+    outputs:
+      pr_number: ${{ steps.finder.outputs.pr }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -92,6 +95,9 @@ jobs:
           name: preview-build
           path: ./public
 
+      - uses: jwalton/gh-find-current-pr@v1
+        id: finder
+
   checkExternalLinks:
     name: Check external links
     runs-on: ubuntu-latest
@@ -125,6 +131,15 @@ jobs:
           format: markdown
           output: .lychee.report.external.md
           jobSummary: true
+      - name: Comment link checking results to merged PR
+        if: needs.build.outputs.pr_number
+        uses: marocchino/sticky-pull-request-comment@v2
+        with:
+          header: external
+          number: ${{ needs.build.outputs.pr_number }}
+          path: .lychee.report.external.md
+          hide_and_recreate: true
+          hide_classify: "OUTDATED"
       - name: Save lychee cache
         uses: actions/cache/save@v4
         if: always()
@@ -184,6 +199,15 @@ jobs:
           format: markdown
           output: .lychee.report.internal.md
           jobSummary: true
+      - name: Comment link checking results to merged PR
+        if: needs.build.outputs.pr_number
+        uses: marocchino/sticky-pull-request-comment@v2
+        with:
+          header: internal
+          number: ${{ needs.build.outputs.pr_number }}
+          path: .lychee.report.internal.md
+          hide_and_recreate: true
+          hide_classify: "OUTDATED"
       - name: Save lychee cache
         uses: actions/cache/save@v4
         if: always()
