@@ -209,7 +209,7 @@ jobs:
         uses: marocchino/sticky-pull-request-comment@v2
         with:
           header: internal
-          number: ${{ needs.build.outputs.pr_number }}
+          number: ${{ needs.deploy.outputs.pr_number }}
           path: .lychee.report.internal.md
           hide_and_recreate: true
           hide_classify: "OUTDATED"
