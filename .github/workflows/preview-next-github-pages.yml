@@ -135,7 +135,7 @@ jobs:
           output: .lychee.report.external.md
           jobSummary: true
       - name: Comment link checking results to merged PR
-        if: ${{ needs.build.outputs.pr_number }}
+        if: needs.build.outputs.pr_number != ''
         uses: marocchino/sticky-pull-request-comment@v2
         with:
           header: external
@@ -203,7 +203,7 @@ jobs:
           output: .lychee.report.internal.md
           jobSummary: true
       - name: Comment link checking results to merged PR
-        if: ${{ needs.build.outputs.pr_number }}
+        if: needs.build.outputs.pr_number != ''
         uses: marocchino/sticky-pull-request-comment@v2
         with:
           header: internal
