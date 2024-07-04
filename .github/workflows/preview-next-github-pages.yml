@@ -134,6 +134,9 @@ jobs:
           format: markdown
           output: .lychee.report.external.md
           jobSummary: true
+      - name: Modify external link checker results to contain live URLs
+        if: needs.build.outputs.pr_number != ''
+        run: sed "s|Errors in public|Errors in ${{ env.BASE_URL }}|g" -i .lychee.report.external.md
       - name: Comment link checking results to merged PR
         if: needs.build.outputs.pr_number != ''
         uses: marocchino/sticky-pull-request-comment@v2
@@ -204,6 +207,9 @@ jobs:
           format: markdown
           output: .lychee.report.internal.md
           jobSummary: true
+      - name: Modify internal link checker results to contain live URLs
+        if: needs.deploy.outputs.pr_number != ''
+        run: sed "s|Errors in public|Errors in ${{ env.BASE_URL }}|g" -i .lychee.report.internal.md
       - name: Comment link checking results to merged PR
         if: needs.deploy.outputs.pr_number != ''
         uses: marocchino/sticky-pull-request-comment@v2
