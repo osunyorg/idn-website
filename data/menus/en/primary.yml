@@ -9,7 +9,7 @@ items:
     target: "/about/idn/"
     kind: page
     children: []
-  - title: Principles
+  - title: Our principles
     target: "/about/principles/"
     kind: page
     children: []
