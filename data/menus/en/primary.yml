@@ -9,12 +9,12 @@ items:
     target: "/about/idn/"
     kind: page
     children: []
-  - title: Our Circles
-    target: "/our-circles/"
-    kind: page
-    children: []
   - title: History
     target: "/about/history/"
+    kind: page
+    children: []
+  - title: Our Circles
+    target: "/our-circles/"
     kind: page
     children: []
   - title: Principles
