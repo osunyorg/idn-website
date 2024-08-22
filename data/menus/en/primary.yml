@@ -5,7 +5,7 @@ items:
   target: "/about/"
   kind: page
   children:
-  - title: Aims
+  - title: Our vision, mission and aims
     target: "/about/idn/"
     kind: page
     children: []
