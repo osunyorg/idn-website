@@ -41,10 +41,6 @@ items:
     target: "/join-us/individual-membership/"
     kind: page
     children: []
-- title: Assembly 2024
-  target: "/pontevedra-assembly-2024/"
-  kind: page
-  children: []
 - title: Resources
   target: "/resources/"
   kind: page
@@ -64,5 +60,9 @@ items:
 - title: Assemblies
   target: ''
   kind: blank
-  children: []
+  children:
+  - title: Assembly 2024
+    target: "/pontevedra-assembly-2024/"
+    kind: page
+    children: []
 
