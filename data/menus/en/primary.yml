@@ -38,8 +38,8 @@ items:
     kind: page
     children: []
 - title: Assemblies
-  target: ''
-  kind: blank
+  target: "/assemblies/"
+  kind: page
   children:
   - title: Previous Assemblies
     target: "/assemblies/history/"
