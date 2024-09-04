@@ -57,7 +57,7 @@ items:
   target: ''
   kind: blank
   children:
-  - title: History
+  - title: Previous Assemblies
     target: "/assemblies/history/"
     kind: page
     children: []
