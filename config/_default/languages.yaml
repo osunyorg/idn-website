@@ -17,6 +17,7 @@ en:
       tiktok: >-
         https://www.tiktok.com/@degrowth.network
   permalinks:
+    posts: /news/:year-:month-:day-:slug/
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
     organizations: /organisations/:slug/
