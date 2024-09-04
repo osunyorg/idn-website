@@ -49,6 +49,10 @@ items:
     target: "/assemblies/pontevedra-assembly-2024/"
     kind: page
     children: []
+  - title: '6th Assembly '
+    target: "/assemblies/assembly-2025/"
+    kind: page
+    children: []
 - title: Resources
   target: "/resources/"
   kind: page
