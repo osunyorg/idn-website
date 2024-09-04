@@ -37,6 +37,18 @@ items:
     target: "/join-us/individual-membership/"
     kind: page
     children: []
+- title: Assemblies
+  target: ''
+  kind: blank
+  children:
+  - title: Previous Assemblies
+    target: "/assemblies/history/"
+    kind: page
+    children: []
+  - title: Assembly 2024
+    target: "/assemblies/pontevedra-assembly-2024/"
+    kind: page
+    children: []
 - title: Resources
   target: "/resources/"
   kind: page
@@ -51,18 +63,6 @@ items:
     children: []
   - title: Post Growth Guide
     target: "/resources/post-growth-guide/"
-    kind: page
-    children: []
-- title: Assemblies
-  target: ''
-  kind: blank
-  children:
-  - title: Previous Assemblies
-    target: "/assemblies/history/"
-    kind: page
-    children: []
-  - title: Assembly 2024
-    target: "/assemblies/pontevedra-assembly-2024/"
     kind: page
     children: []
 
