@@ -6,7 +6,7 @@ items:
   kind: page
   children:
   - title: Our vision, mission and aims
-    target: "/about/idn/"
+    target: "/about/vma/"
     kind: page
     children: []
   - title: Our principles
