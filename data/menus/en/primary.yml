@@ -22,7 +22,7 @@ items:
     kind: page
     children: []
   - title: History
-    target: "/about/history/"
+    target: "/history/"
     kind: page
     children: []
 - title: IDN Members
