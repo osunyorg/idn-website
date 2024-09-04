@@ -62,7 +62,7 @@ items:
   kind: blank
   children:
   - title: Assembly 2024
-    target: "/pontevedra-assembly-2024/"
+    target: "/assemblies/pontevedra-assembly-2024/"
     kind: page
     children: []
 
