@@ -61,4 +61,8 @@ items:
     target: "/resources/post-growth-guide/"
     kind: page
     children: []
+- title: Assemblies
+  target: ''
+  kind: blank
+  children: []
 
