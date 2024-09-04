@@ -21,10 +21,6 @@ items:
     target: "/about/governance/"
     kind: page
     children: []
-  - title: History
-    target: "/assemblies/history/"
-    kind: page
-    children: []
 - title: IDN Members
   target: "/members/"
   kind: page
@@ -61,6 +57,10 @@ items:
   target: ''
   kind: blank
   children:
+  - title: History
+    target: "/assemblies/history/"
+    kind: page
+    children: []
   - title: Assembly 2024
     target: "/assemblies/pontevedra-assembly-2024/"
     kind: page
