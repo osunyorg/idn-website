@@ -69,4 +69,8 @@ items:
     target: "/resources/post-growth-guide/"
     kind: page
     children: []
+- title: News
+  target: "/news/"
+  kind: page
+  children: []
 
