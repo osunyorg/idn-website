@@ -17,10 +17,10 @@ en:
       tiktok: >-
         https://www.tiktok.com/@degrowth.network
   permalinks:
-    posts: /news/:year-:month-:day-:slug/
-    posts_categories: /news/:slug/
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
+    posts: /news/:year-:month-:day-:slug/
+    posts_categories: /news/:slug/
     organizations: /organisations/:slug/
     organizations_categories: /organisations/categories/:slug/
     persons: /team/:slug/
