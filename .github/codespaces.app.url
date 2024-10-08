@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+
+CODESPACE_PORT="$(jq -r '.appPort[] | capture("(?<port>[0-9]+)") | .port' .devcontainer.json)"
+echo "https://${CODESPACE_NAME}-${CODESPACE_PORT}.${GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN}/"
