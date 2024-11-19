@@ -23,9 +23,6 @@ en:
     posts_categories: /news/:slug/
     organizations: /organisations/:slug/
     organizations_categories: /organisations/categories/:slug/
-    persons: /team/:slug/
-    persons_categories: /team/categories/:slug/
-    authors: /team/:slug/news/
   taxonomies:
     administrator: administrators
     author: authors
