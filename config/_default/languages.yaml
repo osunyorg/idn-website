@@ -7,15 +7,30 @@ en:
   languageCode: en
   languageName: English
   params:
-    social:
-      email: >-
-        info@degrowth.net
-      mastodon: >-
-        https://degrowth.social/@IDN
-      instagram: >-
-        https://www.instagram.com/degrowth.network/
-      tiktok: >-
-        https://www.tiktok.com/@degrowth.network
+    contact_details:
+      emails:
+        email:
+          label: >-
+            info@degrowth.net
+          value: >-
+            mailto:info@degrowth.net
+      social_networks:
+        instagram:
+          label: >-
+            degrowth.network
+          value: >-
+            https://instagram.com/degrowth.network
+        mastodon:
+          label: >-
+            degrowth.social/@IDN
+          value: >-
+            https://degrowth.social/@IDN
+        tiktok:
+          label: >-
+            degrowth.network
+          value: >-
+            https://www.tiktok.com/@degrowth.network
+
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
