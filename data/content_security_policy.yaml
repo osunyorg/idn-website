@@ -7,3 +7,5 @@ allowed_domains:
   - "tile.openstreetmap.org"
   - "embed.kumu.io"
   - "my.liberaforms.org"
+  - "letters.degrowth.net"
+  - "hcaptcha.com"
