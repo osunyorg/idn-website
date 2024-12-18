@@ -4,28 +4,33 @@ items:
 - title: About
   target: "/about/"
   kind: page
+  new_tab: false
   children:
   - title: Our vision, mission and aims
     target: "/about/vma/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/about/vma"
     file: content/en/pages/about/vma/_index.html
   - title: Our principles
     target: "/about/principles/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/about/principles"
     file: content/en/pages/about/principles/_index.html
   - title: Our Circles
     target: "/our-circles/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/our-circles"
     file: content/en/pages/our-circles/_index.html
   - title: Governance
     target: "/about/governance/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/about/governance"
     file: content/en/pages/about/governance/_index.html
@@ -34,22 +39,26 @@ items:
 - title: IDN Members
   target: "/members/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/members"
   file: content/en/pages/members/_index.html
 - title: Join Us
   target: "/join-us/"
   kind: page
+  new_tab: false
   children:
   - title: Group Membership
     target: "/join-us/group-membership/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/join-us/group-membership"
     file: content/en/pages/join-us/group-membership/_index.html
   - title: Individual Membership
     target: "/join-us/individual-membership/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/join-us/individual-membership"
     file: content/en/pages/join-us/individual-membership/_index.html
@@ -58,22 +67,26 @@ items:
 - title: Assemblies
   target: "/assemblies/"
   kind: page
+  new_tab: false
   children:
   - title: Previous Assemblies
     target: "/assemblies/history/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/assemblies/history"
     file: content/en/pages/assemblies/history/_index.html
   - title: 5th Assembly
     target: "/assemblies/pontevedra-assembly-2024/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/assemblies/pontevedra-assembly-2024"
     file: content/en/pages/assemblies/pontevedra-assembly-2024/_index.html
   - title: '6th Assembly '
     target: "/assemblies/assembly-2025/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/assemblies/assembly-2025"
     file: content/en/pages/assemblies/assembly-2025/_index.html
@@ -82,22 +95,26 @@ items:
 - title: Resources
   target: "/resources/"
   kind: page
+  new_tab: false
   children:
   - title: The Degrowth Database
     target: "/resources/the-degrowth-database/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/resources/the-degrowth-database"
     file: content/en/pages/resources/the-degrowth-database/_index.html
   - title: Degrowth 101
     target: "/resources/degrowth-101/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/resources/degrowth-101"
     file: content/en/pages/resources/degrowth-101/_index.html
   - title: Post Growth Guide
     target: "/resources/post-growth-guide/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/resources/post-growth-guide"
     file: content/en/pages/resources/post-growth-guide/_index.html
@@ -106,6 +123,7 @@ items:
 - title: News
   target: "/news/"
   kind: page
+  new_tab: false
   children: []
   path: "/posts"
   file: content/en/posts/_index.html

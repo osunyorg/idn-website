@@ -4,6 +4,7 @@ items:
 - title: Privacy policy
   target: "/privacy-policy/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/privacy-policy"
   file: content/en/pages/privacy-policy/_index.html
