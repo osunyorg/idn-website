@@ -11,5 +11,7 @@ params:
   breadcrumb:
     position: after-hero
   menu:
-    dropdown:
-      linkToLevel1: true
+    primary:
+      level_2:
+        title:
+          active: true
