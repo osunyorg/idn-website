@@ -127,4 +127,9 @@ items:
   children: []
   path: "/posts"
   file: content/en/posts/_index.html
+- title: Explore Degrowth
+  target: https://explore.degrowth.net/
+  kind: url
+  new_tab: true
+  children: []
 
