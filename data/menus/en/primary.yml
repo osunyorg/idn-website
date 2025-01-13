@@ -92,11 +92,6 @@ items:
     file: content/en/pages/assemblies/assembly-2025/_index.html
   path: "/pages/assemblies"
   file: content/en/pages/assemblies/_index.html
-- title: Explore Degrowth
-  target: https://explore.degrowth.net/
-  kind: url
-  new_tab: true
-  children: []
 - title: News
   target: "/news/"
   kind: page
@@ -104,4 +99,9 @@ items:
   children: []
   path: "/posts"
   file: content/en/posts/_index.html
+- title: Explore Degrowth
+  target: https://explore.degrowth.net/
+  kind: url
+  new_tab: true
+  children: []
 
