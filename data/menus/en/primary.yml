@@ -76,7 +76,7 @@ items:
     children: []
     path: "/pages/assemblies/history"
     file: content/en/pages/assemblies/history/_index.html
-  - title: 5th Assembly
+  - title: Assembly 2024
     target: "/assemblies/pontevedra-assembly-2024/"
     kind: page
     new_tab: false
