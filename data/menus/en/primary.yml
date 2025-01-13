@@ -83,7 +83,7 @@ items:
     children: []
     path: "/pages/assemblies/pontevedra-assembly-2024"
     file: content/en/pages/assemblies/pontevedra-assembly-2024/_index.html
-  - title: '6th Assembly '
+  - title: 'Assembly 2025 '
     target: "/assemblies/assembly-2025/"
     kind: page
     new_tab: false
