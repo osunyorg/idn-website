@@ -92,34 +92,11 @@ items:
     file: content/en/pages/assemblies/assembly-2025/_index.html
   path: "/pages/assemblies"
   file: content/en/pages/assemblies/_index.html
-- title: Resources
-  target: "/resources/"
-  kind: page
-  new_tab: false
-  children:
-  - title: The Degrowth Database
-    target: "/resources/the-degrowth-database/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/resources/the-degrowth-database"
-    file: content/en/pages/resources/the-degrowth-database/_index.html
-  - title: Degrowth 101
-    target: "/resources/degrowth-101/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/resources/degrowth-101"
-    file: content/en/pages/resources/degrowth-101/_index.html
-  - title: Post Growth Guide
-    target: "/resources/post-growth-guide/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/resources/post-growth-guide"
-    file: content/en/pages/resources/post-growth-guide/_index.html
-  path: "/pages/resources"
-  file: content/en/pages/resources/_index.html
+- title: Explore Degrowth
+  target: https://explore.degrowth.net/
+  kind: url
+  new_tab: true
+  children: []
 - title: News
   target: "/news/"
   kind: page
@@ -127,9 +104,4 @@ items:
   children: []
   path: "/posts"
   file: content/en/posts/_index.html
-- title: Explore Degrowth
-  target: https://explore.degrowth.net/
-  kind: url
-  new_tab: true
-  children: []
 
