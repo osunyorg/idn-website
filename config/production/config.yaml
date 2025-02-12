@@ -2,6 +2,11 @@
 
 baseURL: https://degrowth.net
 
+## OSUNY
+osuny:
+  website:
+    id: dcc4d339-e656-44cf-9ccf-af24adba8814
+
 ## LANGUAGE
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: false
