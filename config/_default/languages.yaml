@@ -20,6 +20,11 @@ en:
             degrowth.network
           value: >-
             https://instagram.com/degrowth.network
+        linkedin:
+          label: >-
+            international-degrowth-network
+          value: >-
+            https://www.linkedin.com/company/international-degrowth-network
         mastodon:
           label: >-
             degrowth.social/@IDN
@@ -30,6 +35,11 @@ en:
             degrowth.network
           value: >-
             https://www.tiktok.com/@degrowth.network
+        youtube:
+          label: >-
+            Degrowth.Network
+          value: >-
+            https://www.youtube.com/@Degrowth.Network
 
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
