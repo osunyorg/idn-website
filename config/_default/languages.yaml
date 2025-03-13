@@ -6,6 +6,7 @@ en:
   contentDir: content/en
   languageCode: en
   languageName: English
+  buildFuture: true
   params:
     contact_details:
       emails:
@@ -42,7 +43,8 @@ en:
             https://www.youtube.com/@Degrowth.Network
 
   permalinks:
-    events: /agenda/:year-:month-:day-:slug/
+    events: /agenda/:year/:slug/
+    exhibitions: /exhibitions/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
     pages_categories: /:slug/
     posts: /news/:year-:month-:day-:slug/
