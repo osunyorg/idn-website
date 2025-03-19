@@ -5,7 +5,5 @@ allowed_domains:
   - "*.osuny.org"
   - "osuny.s3.fr-par.scw.cloud"
   - "tile.openstreetmap.org"
-  - "letters.degrowth.net"
-  - "hcaptcha.com"
   - "embed.kumu.io"
   - "my.liberaforms.org"
