@@ -104,4 +104,9 @@ items:
   kind: url
   new_tab: true
   children: []
+- title: Events
+  target: ''
+  kind: blank
+  new_tab: false
+  children: []
 
