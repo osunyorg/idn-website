@@ -97,6 +97,13 @@ items:
       file: content/en/pages/assemblies/history/_index.html
     path: "/pages/assemblies"
     file: content/en/pages/assemblies/_index.html
+  - title: Global Degrowth Day
+    target: "/global-degrowth-day/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/global-degrowth-day"
+    file: content/en/pages/global-degrowth-day/_index.html
 - title: News
   target: "/news/"
   kind: page
