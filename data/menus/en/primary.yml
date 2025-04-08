@@ -68,35 +68,35 @@ items:
   target: ''
   kind: blank
   new_tab: false
-  children: []
-- title: Assemblies
-  target: "/assemblies/"
-  kind: page
-  new_tab: false
   children:
-  - title: Previous Assemblies
-    target: "/assemblies/history/"
+  - title: Assemblies
+    target: "/assemblies/"
     kind: page
     new_tab: false
-    children: []
-    path: "/pages/assemblies/history"
-    file: content/en/pages/assemblies/history/_index.html
-  - title: Assembly 2024
-    target: "/assemblies/pontevedra-assembly-2024/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/assemblies/pontevedra-assembly-2024"
-    file: content/en/pages/assemblies/pontevedra-assembly-2024/_index.html
-  - title: 'Assembly 2025 '
-    target: "/assemblies/assembly-2025/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/assemblies/assembly-2025"
-    file: content/en/pages/assemblies/assembly-2025/_index.html
-  path: "/pages/assemblies"
-  file: content/en/pages/assemblies/_index.html
+    children:
+    - title: Previous Assemblies
+      target: "/assemblies/history/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/assemblies/history"
+      file: content/en/pages/assemblies/history/_index.html
+    - title: Assembly 2024
+      target: "/assemblies/pontevedra-assembly-2024/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/assemblies/pontevedra-assembly-2024"
+      file: content/en/pages/assemblies/pontevedra-assembly-2024/_index.html
+    - title: 'Assembly 2025 '
+      target: "/assemblies/assembly-2025/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/assemblies/assembly-2025"
+      file: content/en/pages/assemblies/assembly-2025/_index.html
+    path: "/pages/assemblies"
+    file: content/en/pages/assemblies/_index.html
 - title: News
   target: "/news/"
   kind: page
