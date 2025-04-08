@@ -64,6 +64,11 @@ items:
     file: content/en/pages/join-us/individual-membership/_index.html
   path: "/pages/join-us"
   file: content/en/pages/join-us/_index.html
+- title: Events
+  target: ''
+  kind: blank
+  new_tab: false
+  children: []
 - title: Assemblies
   target: "/assemblies/"
   kind: page
@@ -103,10 +108,5 @@ items:
   target: https://explore.degrowth.net/
   kind: url
   new_tab: true
-  children: []
-- title: Events
-  target: ''
-  kind: blank
-  new_tab: false
   children: []
 
