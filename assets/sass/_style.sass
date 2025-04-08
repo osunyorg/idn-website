@@ -8,6 +8,12 @@
                 [aria-expanded="true"] + .dropdown-menu
                     padding-top: $spacing-5
                     padding-bottom: $spacing-5
+            [target="_blank"]
+                background: $color-accent
+                border-radius: $btn-border-radius
+                margin-right: pxToRem(10)
+                &::after
+                    content: none
 @include media-breakpoint-down(desktop)
     .menu 
         .dropdown-menu 

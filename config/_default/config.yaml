@@ -8,8 +8,3 @@ params:
     footer: "/assets/images/logo_footer.svg"
   breadcrumb:
     position: after-hero
-  menu:
-    primary:
-      level_2:
-        title:
-          active: true
