@@ -104,6 +104,13 @@ items:
     children: []
     path: "/pages/global-degrowth-day"
     file: content/en/pages/global-degrowth-day/_index.html
+  - title: Degrowth Event Fund
+    target: "/guidelines-for-2025-degrowth-events-funding-applications/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/guidelines-for-2025-degrowth-events-funding-applications"
+    file: content/en/pages/guidelines-for-2025-degrowth-events-funding-applications/_index.html
 - title: News
   target: "/news/"
   kind: page
