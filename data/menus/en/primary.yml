@@ -20,7 +20,7 @@ items:
     children: []
     path: "/pages/about/principles"
     file: content/en/pages/about/principles/_index.html
-  - title: Our circles
+  - title: Our Circles
     target: "/our-circles/"
     kind: page
     new_tab: false
