@@ -27,7 +27,7 @@ items:
     children: []
     path: "/pages/our-circles"
     file: content/en/pages/our-circles/_index.html
-  - title: Governance
+  - title: Our Governance
     target: "/about/governance/"
     kind: page
     new_tab: false
