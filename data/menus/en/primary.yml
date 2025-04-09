@@ -36,34 +36,6 @@ items:
     file: content/en/pages/about/governance/_index.html
   path: "/pages/about"
   file: content/en/pages/about/_index.html
-- title: IDN Members
-  target: "/members/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/members"
-  file: content/en/pages/members/_index.html
-- title: Join Us
-  target: "/join-us/"
-  kind: page
-  new_tab: false
-  children:
-  - title: Group Membership
-    target: "/join-us/group-membership/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/join-us/group-membership"
-    file: content/en/pages/join-us/group-membership/_index.html
-  - title: Individual Membership
-    target: "/join-us/individual-membership/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/join-us/individual-membership"
-    file: content/en/pages/join-us/individual-membership/_index.html
-  path: "/pages/join-us"
-  file: content/en/pages/join-us/_index.html
 - title: Our Work
   target: ''
   kind: blank
@@ -111,6 +83,34 @@ items:
     children: []
     path: "/pages/guidelines-for-2025-degrowth-events-funding-applications"
     file: content/en/pages/guidelines-for-2025-degrowth-events-funding-applications/_index.html
+- title: IDN Members
+  target: "/members/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/members"
+  file: content/en/pages/members/_index.html
+- title: Join Us
+  target: "/join-us/"
+  kind: page
+  new_tab: false
+  children:
+  - title: Group Membership
+    target: "/join-us/group-membership/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/join-us/group-membership"
+    file: content/en/pages/join-us/group-membership/_index.html
+  - title: Individual Membership
+    target: "/join-us/individual-membership/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/join-us/individual-membership"
+    file: content/en/pages/join-us/individual-membership/_index.html
+  path: "/pages/join-us"
+  file: content/en/pages/join-us/_index.html
 - title: News
   target: "/news/"
   kind: page
