@@ -6,14 +6,14 @@ items:
   kind: page
   new_tab: false
   children:
-  - title: Our vision, mission and aims
+  - title: Our Vision, Mission and Aims
     target: "/about/vma/"
     kind: page
     new_tab: false
     children: []
     path: "/pages/about/vma"
     file: content/en/pages/about/vma/_index.html
-  - title: Our principles
+  - title: Our Principles
     target: "/about/principles/"
     kind: page
     new_tab: false
