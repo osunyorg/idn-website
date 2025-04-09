@@ -64,7 +64,7 @@ items:
     file: content/en/pages/join-us/individual-membership/_index.html
   path: "/pages/join-us"
   file: content/en/pages/join-us/_index.html
-- title: Events
+- title: Our Work
   target: ''
   kind: blank
   new_tab: false
