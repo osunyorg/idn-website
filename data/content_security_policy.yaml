@@ -5,5 +5,5 @@ allowed_domains:
   - "*.osuny.org"
   - "osuny.s3.fr-par.scw.cloud"
   - "tile.openstreetmap.org"
-  - "my.liberaforms.org"
   - "embed.kumu.io"
+  - "my.liberaforms.org"
