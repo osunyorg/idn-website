@@ -49,8 +49,8 @@ en:
     pages_categories: /:slug/
     posts: /news/:year-:month-:day-:slug/
     posts_categories: /news/:slug/
-    organizations: /ignore-for-now/organisations/:slug/
-    organizations_categories: /ignore-for-now/organisations/categories/:slug/
+    organizations: /organisations/:slug/
+    organizations_categories: /organisations/categories/:slug/
     persons: /ignore-for-now/team/:slug/
     persons_categories: /ignore-for-now/team/categories/:slug/
     authors: /ignore-for-now/team/:slug/news/
