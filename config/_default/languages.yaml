@@ -43,17 +43,17 @@ en:
             https://www.youtube.com/@Degrowth.Network
 
   permalinks:
-    events: /ignore-for-now/agenda/:year/:slug/
-    exhibitions: /ignore-for-now/exhibitions/:year-:month-:day-:slug/
-    events_categories: /ignore-for-now/agenda/:slug/
+    events: /extra/agenda/:year/:slug/
+    exhibitions: /extra/exhibitions/:year-:month-:day-:slug/
+    events_categories: /extra/agenda/:slug/
     pages_categories: /:slug/
     posts: /news/:year-:month-:day-:slug/
     posts_categories: /news/:slug/
     organizations: /organisations/:slug/
     organizations_categories: /organisations/categories/:slug/
-    persons: /ignore-for-now/team/:slug/
-    persons_categories: /ignore-for-now/team/categories/:slug/
-    authors: /ignore-for-now/team/:slug/news/
+    persons: /extra/team/:slug/
+    persons_categories: /extra/team/categories/:slug/
+    authors: /extra/team/:slug/news/
   taxonomies:
     administrator: administrators
     author: authors
