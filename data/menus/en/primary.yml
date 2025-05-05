@@ -61,12 +61,12 @@ items:
       path: "/pages/our-work/assemblies/pontevedra-assembly-2024"
       file: content/en/pages/our-work/assemblies/pontevedra-assembly-2024/_index.html
     - title: Previous Assemblies
-      target: "/our-work/assemblies/history/"
+      target: "/our-work/assemblies/previous-assemblies/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/our-work/assemblies/history"
-      file: content/en/pages/our-work/assemblies/history/_index.html
+      path: "/pages/our-work/assemblies/previous-assemblies"
+      file: content/en/pages/our-work/assemblies/previous-assemblies/_index.html
     path: "/pages/our-work/assemblies"
     file: content/en/pages/our-work/assemblies/_index.html
   - title: Global Degrowth Day
