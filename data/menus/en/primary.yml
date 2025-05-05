@@ -21,12 +21,12 @@ items:
     path: "/pages/about/principles"
     file: content/en/pages/about/principles/_index.html
   - title: Our Circles
-    target: "/our-circles/"
+    target: "/about/our-circles/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/our-circles"
-    file: content/en/pages/our-circles/_index.html
+    path: "/pages/about/our-circles"
+    file: content/en/pages/about/our-circles/_index.html
   - title: Our Governance
     target: "/about/governance/"
     kind: page
@@ -37,59 +37,54 @@ items:
   path: "/pages/about"
   file: content/en/pages/about/_index.html
 - title: Our Work
-  target: ''
-  kind: blank
+  target: "/our-work/"
+  kind: page
   new_tab: false
   children:
   - title: Assemblies
-    target: "/assemblies/"
+    target: "/our-work/assemblies/"
     kind: page
     new_tab: false
     children:
     - title: 'Assembly 2025 '
-      target: "/assemblies/assembly-2025/"
+      target: "/our-work/assemblies/assembly-2025/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/assemblies/assembly-2025"
-      file: content/en/pages/assemblies/assembly-2025/_index.html
+      path: "/pages/our-work/assemblies/assembly-2025"
+      file: content/en/pages/our-work/assemblies/assembly-2025/_index.html
     - title: Assembly 2024
-      target: "/assemblies/pontevedra-assembly-2024/"
+      target: "/our-work/assemblies/pontevedra-assembly-2024/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/assemblies/pontevedra-assembly-2024"
-      file: content/en/pages/assemblies/pontevedra-assembly-2024/_index.html
+      path: "/pages/our-work/assemblies/pontevedra-assembly-2024"
+      file: content/en/pages/our-work/assemblies/pontevedra-assembly-2024/_index.html
     - title: Previous Assemblies
-      target: "/assemblies/history/"
+      target: "/our-work/assemblies/history/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/assemblies/history"
-      file: content/en/pages/assemblies/history/_index.html
-    path: "/pages/assemblies"
-    file: content/en/pages/assemblies/_index.html
+      path: "/pages/our-work/assemblies/history"
+      file: content/en/pages/our-work/assemblies/history/_index.html
+    path: "/pages/our-work/assemblies"
+    file: content/en/pages/our-work/assemblies/_index.html
   - title: Global Degrowth Day
-    target: "/global-degrowth-day/"
+    target: "/our-work/global-degrowth-day/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/global-degrowth-day"
-    file: content/en/pages/global-degrowth-day/_index.html
+    path: "/pages/our-work/global-degrowth-day"
+    file: content/en/pages/our-work/global-degrowth-day/_index.html
   - title: Degrowth Event Fund
-    target: "/guidelines-for-2025-degrowth-events-funding-applications/"
+    target: "/our-work/guidelines-for-2025-degrowth-events-funding-applications/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/guidelines-for-2025-degrowth-events-funding-applications"
-    file: content/en/pages/guidelines-for-2025-degrowth-events-funding-applications/_index.html
-- title: IDN Members
-  target: "/members/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/members"
-  file: content/en/pages/members/_index.html
+    path: "/pages/our-work/guidelines-for-2025-degrowth-events-funding-applications"
+    file: content/en/pages/our-work/guidelines-for-2025-degrowth-events-funding-applications/_index.html
+  path: "/pages/our-work"
+  file: content/en/pages/our-work/_index.html
 - title: Join Us
   target: "/join-us/"
   kind: page
@@ -111,6 +106,13 @@ items:
     file: content/en/pages/join-us/individual-membership/_index.html
   path: "/pages/join-us"
   file: content/en/pages/join-us/_index.html
+- title: IDN Members
+  target: "/members/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/members"
+  file: content/en/pages/members/_index.html
 - title: News
   target: "/news/"
   kind: page
