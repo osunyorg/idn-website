@@ -6,6 +6,6 @@ allowed_domains:
   - "osuny.s3.fr-par.scw.cloud"
   - "tile.openstreetmap.org"
   - "plausible.io"
-  - "embed.kumu.io"
   - "my.liberaforms.org"
+  - "embed.kumu.io"
   - "www.youtube-nocookie.com"
