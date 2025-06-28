@@ -83,6 +83,13 @@ items:
     children: []
     path: "/pages/our-work/guidelines-for-2025-degrowth-events-funding-applications"
     file: content/en/pages/our-work/guidelines-for-2025-degrowth-events-funding-applications/_index.html
+  - title: Degrowth World Mailing List
+    target: "/our-work/degrowth-world-maling-list/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/our-work/degrowth-world-maling-list"
+    file: content/en/pages/our-work/degrowth-world-maling-list/_index.html
   path: "/pages/our-work"
   file: content/en/pages/our-work/_index.html
 - title: Join Us
