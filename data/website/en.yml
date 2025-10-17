@@ -17,53 +17,7 @@ contents:
     data:
       layout: no_background
       text: >-
-        <p>IMPRESS</p><ul> <li>International Degrowth Network</li> <li>Charity Number W632015285 </li> <li>Registered in France</li> </ul>
-
-      notes: >-
-        
-
-
-      alt: >-
-        
-
-      credit: >-
-        
-
-
-
-  - kind: block
-    template: title
-    title: >-
-      Adress
-    slug: >-
-      adress
-    ranks:
-      base: 2
-      self: 2
-    top:
-      active: true
-      title: 
-        value: >-
-          Adress
-        heading: 2
-    data:
-      layout: classic
-
-
-  - kind: block
-    template: chapter
-    title: >-
-      
-    slug: >-
-      
-    ranks:
-      base: 3
-    top:
-      active: false
-    data:
-      layout: no_background
-      text: >-
-        <p>36 rue du President Wilson,<br>63100, Clermont-Ferrand<br>France</p>
+        <p>IMPRESS</p><ul> <li>International Degrowth Network</li> <li>Charity Number: W632015285 </li> <li>Address: 36 rue du President Wilson, 63100, Clermont-Ferrand, France</li> <li>Registered in France</li> </ul>
 
       notes: >-
         
