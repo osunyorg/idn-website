@@ -1,6 +1,6 @@
 default:
 contents_reading_time:
-  seconds: 5
+  seconds: 1
   text: >-
     less than a minute
 contents:
@@ -17,7 +17,7 @@ contents:
     data:
       layout: no_background
       text: >-
-        <p>IMPRESS</p><ul> <li>International Degrowth Network</li> <li>Charity Number: W632015285 </li> <li>Address: 36 rue du President Wilson, 63100, Clermont-Ferrand, France</li> <li>Registered in France</li> </ul>
+        <p>IMPRESSUM: <a href="https://degrowth.net/impressum/" target="_blank" rel="noreferrer">https://degrowth.net/impressum/ <span class="sr-only">(external link)</span></a> </p>
 
       notes: >-
         
