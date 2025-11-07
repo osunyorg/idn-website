@@ -21,7 +21,7 @@ deployment:
       cacheControl: "max-age=31536000, no-transform, public"
       gzip: false
   ## DEUXFLEURS
-  workers: 2
+  workers: 4
   targets:
     - name: "production"
       URL: "s3://degrowth.net?endpoint=garage.deuxfleurs.fr&s3ForcePathStyle=true&region=garage&awssdk=v1"
