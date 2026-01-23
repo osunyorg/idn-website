@@ -46,6 +46,13 @@ items:
     kind: page
     new_tab: false
     children:
+    - title: Assembly 2026
+      target: "/our-work/assemblies/online-assembly-2026/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/our-work/assemblies/online-assembly-2026"
+      file: content/en/pages/our-work/assemblies/online-assembly-2026/_index.html
     - title: 'Assembly 2025 '
       target: "/our-work/assemblies/assembly-2025/"
       kind: page
