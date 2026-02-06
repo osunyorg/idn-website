@@ -6,28 +6,20 @@ contents_reading_time:
 contents:
   - kind: block
     template: chapter
-    title: >-
-      
-    slug: >-
-      
+
+
     ranks:
       base: 2
     top:
       active: false
+
     data:
       layout: no_background
       text: >-
         <p>IMPRESSUM: <a href="https://degrowth.net/impressum/" target="_blank" rel="noreferrer">https://degrowth.net/impressum/ <span class="sr-only">(external link)</span></a> </p>
 
-      notes: >-
-        
 
 
-      alt: >-
-        
-
-      credit: >-
-        
 
 
 
