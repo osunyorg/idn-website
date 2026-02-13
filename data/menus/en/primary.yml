@@ -2,141 +2,199 @@
 title: Main menu
 items:
 - title: About
+  slug: about
   target: "/about/"
   kind: page
   new_tab: false
   children:
   - title: Our Vision, Mission and Aims
+    slug: our-vision-mission-and-aims
     target: "/about/vma/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/about/vma"
     file: content/en/pages/about/vma/_index.html
   - title: Our Principles
+    slug: our-principles
     target: "/about/principles/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/about/principles"
     file: content/en/pages/about/principles/_index.html
   - title: Our Circles
+    slug: our-circles
     target: "/about/our-circles/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/about/our-circles"
     file: content/en/pages/about/our-circles/_index.html
   - title: Our Governance
+    slug: our-governance
     target: "/about/governance/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/about/governance"
     file: content/en/pages/about/governance/_index.html
+  descendants_targets:
+  - "/about/governance/"
+  - "/about/our-circles/"
+  - "/about/principles/"
+  - "/about/vma/"
   path: "/pages/about"
   file: content/en/pages/about/_index.html
 - title: Our Work
+  slug: our-work
   target: "/our-work/"
   kind: page
   new_tab: false
   children:
   - title: International Degrowth Assemblies
+    slug: international-degrowth-assemblies
     target: "/our-work/assemblies/"
     kind: page
     new_tab: false
     children:
     - title: Assembly 2026
+      slug: assembly-2026
       target: "/our-work/assemblies/online-assembly-2026/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/our-work/assemblies/online-assembly-2026"
       file: content/en/pages/our-work/assemblies/online-assembly-2026/_index.html
     - title: 'Assembly 2025 '
+      slug: assembly-2025
       target: "/our-work/assemblies/assembly-2025/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/our-work/assemblies/assembly-2025"
       file: content/en/pages/our-work/assemblies/assembly-2025/_index.html
     - title: Assembly 2024
+      slug: assembly-2024
       target: "/our-work/assemblies/pontevedra-assembly-2024/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/our-work/assemblies/pontevedra-assembly-2024"
       file: content/en/pages/our-work/assemblies/pontevedra-assembly-2024/_index.html
     - title: Previous Assemblies
+      slug: previous-assemblies
       target: "/our-work/assemblies/previous-assemblies/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/our-work/assemblies/previous-assemblies"
       file: content/en/pages/our-work/assemblies/previous-assemblies/_index.html
+    descendants_targets:
+    - "/our-work/assemblies/assembly-2025/"
+    - "/our-work/assemblies/online-assembly-2026/"
+    - "/our-work/assemblies/pontevedra-assembly-2024/"
+    - "/our-work/assemblies/previous-assemblies/"
     path: "/pages/our-work/assemblies"
     file: content/en/pages/our-work/assemblies/_index.html
   - title: Global Degrowth Day
+    slug: global-degrowth-day
     target: "/our-work/global-degrowth-day/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/our-work/global-degrowth-day"
     file: content/en/pages/our-work/global-degrowth-day/_index.html
   - title: Degrowth Event Fund
+    slug: degrowth-event-fund
     target: "/our-work/guidelines-for-2025-degrowth-events-funding-applications/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/our-work/guidelines-for-2025-degrowth-events-funding-applications"
     file: content/en/pages/our-work/guidelines-for-2025-degrowth-events-funding-applications/_index.html
   - title: Degrowth World Mailing List
+    slug: degrowth-world-mailing-list
     target: "/our-work/degrowth-world-mailing-list/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/our-work/degrowth-world-mailing-list"
     file: content/en/pages/our-work/degrowth-world-mailing-list/_index.html
+  descendants_targets:
+  - "/our-work/assemblies/"
+  - "/our-work/assemblies/assembly-2025/"
+  - "/our-work/assemblies/online-assembly-2026/"
+  - "/our-work/assemblies/pontevedra-assembly-2024/"
+  - "/our-work/assemblies/previous-assemblies/"
+  - "/our-work/degrowth-world-mailing-list/"
+  - "/our-work/global-degrowth-day/"
+  - "/our-work/guidelines-for-2025-degrowth-events-funding-applications/"
   path: "/pages/our-work"
   file: content/en/pages/our-work/_index.html
 - title: Join Us
+  slug: join-us
   target: "/join-us/"
   kind: page
   new_tab: false
   children:
   - title: Group Membership
+    slug: group-membership
     target: "/join-us/group-membership/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/join-us/group-membership"
     file: content/en/pages/join-us/group-membership/_index.html
   - title: Individual Membership
+    slug: individual-membership
     target: "/join-us/individual-membership/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/join-us/individual-membership"
     file: content/en/pages/join-us/individual-membership/_index.html
+  descendants_targets:
+  - "/join-us/group-membership/"
+  - "/join-us/individual-membership/"
   path: "/pages/join-us"
   file: content/en/pages/join-us/_index.html
 - title: IDN Members
+  slug: idn-members
   target: "/members/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/members"
   file: content/en/pages/members/_index.html
 - title: News
+  slug: news
   target: "/news/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts"
   file: content/en/posts/_index.html
 - title: Explore Degrowth
+  slug: explore-degrowth
   target: https://explore.degrowth.net/
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 
