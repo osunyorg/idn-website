@@ -7,20 +7,21 @@ on:
     branches:
       - next
     paths:
-      - 'package.json'
-      - 'yarn.lock'
-      - '.gitmodules'
+      - "package.json"
+      - "pagefind.yml"
+      - "yarn.lock"
+      - ".gitmodules"
 
-      - '.github/workflows/preview-next-github-pages.yml'
-      - '.github/lychee.**'
+      - ".github/workflows/preview-next-github-pages.yml"
+      - ".github/lychee.**"
 
-      - 'assets'
-      - 'config'
-      - 'content'
-      - 'data'
-      - 'i18n'
-      - 'static'
-      - 'themes'
+      - "assets/**"
+      - "config/**"
+      - "content/**"
+      - "data/**"
+      - "i18n/**"
+      - "static/**"
+      - "themes/**"
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -30,11 +31,12 @@ permissions:
   contents: read
   pages: write
   id-token: write
+  pull-requests: write
 
 # Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
 # However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
 concurrency:
-  group: 'pages'
+  group: "pages"
   cancel-in-progress: false
 
 # Default to bash
@@ -43,12 +45,14 @@ defaults:
     shell: bash
 
 env:
-  BASEURL: https://next.degrowth.net
+  BASE_URL: https://next.degrowth.net
 
 jobs:
   build:
     name: Build Hugo page
     runs-on: ubuntu-latest
+    outputs:
+      pr_number: ${{ steps.finder.outputs.pr }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -82,7 +86,7 @@ jobs:
 
       - name: Build the site
         env:
-          HUGO_BASEURL: ${{ env.BASEURL }}
+          HUGO_BASEURL: ${{ env.BASE_URL }}
         run: yarn osuny build
 
       - name: Upload artifact
@@ -90,6 +94,12 @@ jobs:
         with:
           name: preview-build
           path: ./public
+
+      - name: Find merged Pull Request
+        uses: jwalton/gh-find-current-pr@v1
+        id: finder
+        with:
+          state: closed
 
   checkExternalLinks:
     name: Check external links
@@ -120,17 +130,28 @@ jobs:
           CONFIG: .github/lychee.external.toml
           INPUT: public
         with:
-          args: -c ${{ env.CONFIG }} --base ${{ env.BASEURL }} --no-progress --include-fragments ${{ env.INPUT }}
+          args: -c ${{ env.CONFIG }} --base ${{ env.BASE_URL }} --no-progress --include-fragments ${{ env.INPUT }}
           format: markdown
           output: .lychee.report.external.md
           jobSummary: true
+      - name: Modify external link checker results to contain live URLs
+        if: needs.build.outputs.pr_number != ''
+        run: sed "s|Errors in public|Errors in ${{ env.BASE_URL }}|g" -i .lychee.report.external.md
+      - name: Comment link checking results to merged PR
+        if: needs.build.outputs.pr_number != ''
+        uses: marocchino/sticky-pull-request-comment@v2
+        with:
+          header: external
+          number: ${{ needs.build.outputs.pr_number }}
+          path: .lychee.report.external.md
+          hide_and_recreate: true
+          hide_classify: "OUTDATED"
       - name: Save lychee cache
         uses: actions/cache/save@v4
         if: always()
         with:
           path: .lycheecache
           key: ${{ steps.restore-cache.outputs.cache-primary-key }}
-
 
   # Deploy to GitHub Pages
   deploy:
@@ -140,6 +161,8 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     needs: build
+    outputs:
+      pr_number: ${{ needs.build.outputs.pr_number }}
     steps:
       - name: Setup Pages
         id: pages
@@ -180,10 +203,22 @@ jobs:
           CONFIG: .github/lychee.internal.toml
           INPUT: public
         with:
-          args: -c ${{ env.CONFIG }} --base ${{ env.BASEURL }} --no-progress --include-fragments ${{ env.INPUT }}
+          args: -c ${{ env.CONFIG }} --base ${{ env.BASE_URL }} --no-progress --include-fragments ${{ env.INPUT }}
           format: markdown
           output: .lychee.report.internal.md
           jobSummary: true
+      - name: Modify internal link checker results to contain live URLs
+        if: needs.deploy.outputs.pr_number != ''
+        run: sed "s|Errors in public|Errors in ${{ env.BASE_URL }}|g" -i .lychee.report.internal.md
+      - name: Comment link checking results to merged PR
+        if: needs.deploy.outputs.pr_number != ''
+        uses: marocchino/sticky-pull-request-comment@v2
+        with:
+          header: internal
+          number: ${{ needs.deploy.outputs.pr_number }}
+          path: .lychee.report.internal.md
+          hide_and_recreate: true
+          hide_classify: "OUTDATED"
       - name: Save lychee cache
         uses: actions/cache/save@v4
         if: always()
