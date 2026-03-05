@@ -116,13 +116,13 @@ items:
     file: content/en/pages/our-work/global-degrowth-day/_index.html
   - title: Degrowth Event Fund
     slug: degrowth-event-fund
-    target: "/our-work/guidelines-for-2025-degrowth-events-funding-applications/"
+    target: "/our-work/degrowth-events-fund/guidelines-for-2025-degrowth-events-funding-applications/"
     kind: page
     new_tab: false
     children: []
     descendants_targets: []
-    path: "/pages/our-work/guidelines-for-2025-degrowth-events-funding-applications"
-    file: content/en/pages/our-work/guidelines-for-2025-degrowth-events-funding-applications/_index.html
+    path: "/pages/our-work/degrowth-events-fund/guidelines-for-2025-degrowth-events-funding-applications"
+    file: content/en/pages/our-work/degrowth-events-fund/guidelines-for-2025-degrowth-events-funding-applications/_index.html
   - title: Degrowth World Mailing List
     slug: degrowth-world-mailing-list
     target: "/our-work/degrowth-world-mailing-list/"
@@ -138,9 +138,9 @@ items:
   - "/our-work/assemblies/online-assembly-2026/"
   - "/our-work/assemblies/pontevedra-assembly-2024/"
   - "/our-work/assemblies/previous-assemblies/"
+  - "/our-work/degrowth-events-fund/guidelines-for-2025-degrowth-events-funding-applications/"
   - "/our-work/degrowth-world-mailing-list/"
   - "/our-work/global-degrowth-day/"
-  - "/our-work/guidelines-for-2025-degrowth-events-funding-applications/"
   path: "/pages/our-work"
   file: content/en/pages/our-work/_index.html
 - title: Join Us
