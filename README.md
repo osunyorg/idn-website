@@ -35,8 +35,8 @@ yarn osuny build
 
 Two workflows are used for this repository:
 
-- `deploy-main-deuxfleurs-garage.yml` to deploy the `main` branch in the osunyorg/idn-website repository to DeuxFleurs' Garage service, published at [degrowth.net/](https://degrowth.net)
-- `preview-next-github-pages.yml` to preview the `next` branch in the degrowth/idn-website fork with GitHub pages, published at [next.degrowth.net/](https://next.degrowth.net)
+- `deploy-main-deuxfleurs-garage.yml` to deploy the `main` branch in the osunyorg/idn-website repository to DeuxFleurs' Garage service, published at [degrowth.network/](https://degrowth.network)
+- `preview-next-github-pages.yml` to preview the `next` branch in the degrowth/idn-website fork with GitHub pages, published at [next.degrowth.network/](https://next.degrowth.network)
 
 ## Authors
 

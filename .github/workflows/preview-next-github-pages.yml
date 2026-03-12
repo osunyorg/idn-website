@@ -43,7 +43,7 @@ defaults:
     shell: bash
 
 env:
-  BASEURL: https://next.degrowth.net
+  BASEURL: https://next.degrowth.network
 
 jobs:
   build:

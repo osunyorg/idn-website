@@ -75,7 +75,7 @@ headers = []
 # remap = ["https://example.com http://example.invalid"]
 
 # Base URL or website root directory to check relative URLs.
-#base = "https://next.degrowth.net"
+#base = "https://next.degrowth.network"
 
 # HTTP basic auth support. This will be the username and password passed to the
 # authorization HTTP header. See
@@ -113,8 +113,8 @@ exclude = [
 
 # URLs to check (supports regex). Has preference over all excludes.
 include = [
-    'https://next.degrowth.net/.*',
-    'https://degrowth.net/.*',
+    'https://next.degrowth.network/.*',
+    'https://degrowth.network/.*',
 ]
 
 # Exclude all private IPs from checking.

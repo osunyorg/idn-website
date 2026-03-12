@@ -1,7 +1,7 @@
 theme: osuny
 _merge: deep
 params:
-  plausible: degrowth.net
+  plausible: degrowth.network
   search:
     active: true
   logo:

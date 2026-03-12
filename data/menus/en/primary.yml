@@ -213,7 +213,7 @@ items:
   file: content/en/posts/_index.html
 - title: Explore Degrowth
   slug: explore-degrowth
-  target: https://explore.degrowth.net/
+  target: https://explore.degrowth.network/
   kind: url
   new_tab: true
   children: []

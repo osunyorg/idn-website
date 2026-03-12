@@ -2,16 +2,16 @@
 
 This repository is configured to run workflows that use the Lychee link checker.
 
-In addition to the workflows, here we also include a recipe to check for absoulte URLs to the main `degrowth.net` domain, which may be undesireable for local builds and additional environments, such as `next`. With this information we can change them to relative links.
+In addition to the workflows, here we also include a recipe to check for absoulte URLs to the main `degrowth.network` domain, which may be undesireable for local builds and additional environments, such as `next`. With this information we can change them to relative links.
 
 ## Find absolute internal links
 
-First we create a local build of the page that is scoped at the base URL `https://next.degrowth.net`. Then we can use the generated output to check the internal links and store the result in a file called `lychee.json`.
+First we create a local build of the page that is scoped at the base URL `https://next.degrowth.network`. Then we can use the generated output to check the internal links and store the result in a file called `lychee.json`.
 
 ```sh
 yarn install
-HUGO_BASEURL=https://next.degrowth.net yarn osuny build
-podman run --init --rm -it -v ${PWD}:/input -w /input lycheeverse/lychee -c .github/lychee.internal.toml --base https://next.degrowth.net --no-progress --include-fragments --format json --output /input/lychee.json public
+HUGO_BASEURL=https://next.degrowth.network yarn osuny build
+podman run --init --rm -it -v ${PWD}:/input -w /input lycheeverse/lychee -c .github/lychee.internal.toml --base https://next.degrowth.network --no-progress --include-fragments --format json --output /input/lychee.json public
 ```
 
 This file in return can be used to check for internal links that point at a different base URL than the one specified.
@@ -23,9 +23,9 @@ jq '
   map(
     select(
       .value |
-      any(.url | startswith("https://degrowth.net"))
+      any(.url | startswith("https://degrowth.network"))
     ) |
-    {(.key): [.value[] | select(.url | startswith("https://degrowth.net")) | .url]}
+    {(.key): [.value[] | select(.url | startswith("https://degrowth.network")) | .url]}
   ) |
   add
 ' lychee.json
@@ -38,18 +38,18 @@ The output of the above will look like:
 ```sh
 {
   "public/individual-membership/index.html": [
-    "https://degrowth.net/join-us/group-membership/",
-    "https://degrowth.net/structure/",
-    "https://degrowth.net/about/principles/"
+    "https://degrowth.network/join-us/group-membership/",
+    "https://degrowth.network/structure/",
+    "https://degrowth.network/about/principles/"
   ],
   "public/about-us/index.html": [
-    "https://degrowth.net/en/about/principles/"
+    "https://degrowth.network/en/about/principles/"
   ],
   "public/pontevedra-assembly-2024/index.html": [
-    "https://degrowth.net/members/"
+    "https://degrowth.network/members/"
   ],
   "public/index.html": [
-    "https://degrowth.net/join-us/"
+    "https://degrowth.network/join-us/"
   ]
 }
 ```
@@ -65,11 +65,11 @@ jq '
   map(
     select(
       .value |
-      any(.url | startswith("https://degrowth.net"))
+      any(.url | startswith("https://degrowth.network"))
     ) |
     {
       (.key | sub("^public/"; "")):
-      [.value[] | select(.url | startswith("https://degrowth.net")) | .url | sub("https://degrowth.net"; "")]
+      [.value[] | select(.url | startswith("https://degrowth.network")) | .url | sub("https://degrowth.network"; "")]
     }
   ) |
   add
