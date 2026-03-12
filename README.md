@@ -1,6 +1,6 @@
 # International Degrowth Network website
 
-The source code for the [degrowth.net/](https://degrowth.net) web site.
+The source code for the [degrowth.network](https://degrowth.network) website.
 
 ## Preparation
 
