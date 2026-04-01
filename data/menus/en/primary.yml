@@ -120,8 +120,8 @@ items:
     kind: page
     new_tab: false
     children:
-    - title: COMING UP-Degrowth Events Fund 2026
-      slug: coming-up-degrowth-events-fund-2026
+    - title: OPEN NOW-Degrowth Events Fund 2026
+      slug: open-now-degrowth-events-fund-2026
       target: "/our-work/degrowth-events-fund/2026-degrowth-events-fund/"
       kind: page
       new_tab: false
