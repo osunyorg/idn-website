@@ -12,9 +12,9 @@ en:
       emails:
         email:
           label: >-
-            info@degrowth.net
+            info@degrowth.network
           value: >-
-            mailto:info@degrowth.net
+            mailto:info@degrowth.network
       social_networks:
         instagram:
           label: >-
@@ -31,11 +31,6 @@ en:
             degrowth.social/@IDN
           value: >-
             https://degrowth.social/@IDN
-        tiktok:
-          label: >-
-            degrowth.network
-          value: >-
-            https://www.tiktok.com/@degrowth.network
         youtube:
           label: >-
             Degrowth.Network
