@@ -43,7 +43,17 @@ items:
     descendants_targets: []
     path: "/pages/about/governance"
     file: content/en/pages/about/governance/_index.html
+  - title: Our people
+    slug: our-people
+    target: "/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/persons"
+    file: content/en/persons/_index.html
   descendants_targets:
+  - "/"
   - "/about/governance/"
   - "/about/our-circles/"
   - "/about/principles/"
