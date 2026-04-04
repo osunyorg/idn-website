@@ -188,7 +188,17 @@ items:
     descendants_targets: []
     path: "/pages/join-us/individual-membership"
     file: content/en/pages/join-us/individual-membership/_index.html
+  - title: Donate
+    slug: donate
+    target: "/join-us/donate/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/join-us/donate"
+    file: content/en/pages/join-us/donate/_index.html
   descendants_targets:
+  - "/join-us/donate/"
   - "/join-us/group-membership/"
   - "/join-us/individual-membership/"
   path: "/pages/join-us"
