@@ -43,7 +43,7 @@ items:
     descendants_targets: []
     path: "/pages/about/governance"
     file: content/en/pages/about/governance/_index.html
-  - title: Our people
+  - title: Our People
     slug: our-people
     target: "/"
     kind: page
