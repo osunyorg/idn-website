@@ -45,7 +45,7 @@ items:
     file: content/en/pages/about/governance/_index.html
   - title: Our People
     slug: our-people
-    target: "/"
+    target: "/team/"
     kind: page
     new_tab: false
     children: []
@@ -53,11 +53,11 @@ items:
     path: "/persons"
     file: content/en/persons/_index.html
   descendants_targets:
-  - "/"
   - "/about/governance/"
   - "/about/our-circles/"
   - "/about/principles/"
   - "/about/vma/"
+  - "/team/"
   path: "/pages/about"
   file: content/en/pages/about/_index.html
 - title: Our Work
