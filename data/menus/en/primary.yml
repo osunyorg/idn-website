@@ -171,6 +171,15 @@ items:
     descendants_targets: []
     path: "/pages/our-work/support-to-go-to-degrowth-events"
     file: content/en/pages/our-work/support-to-go-to-degrowth-events/_index.html
+  - title: Our Meetings
+    slug: our-meetings
+    target: "/our-work/meetings/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/events"
+    file: content/en/events/_index.html
   descendants_targets:
   - "/our-work/assemblies/"
   - "/our-work/assemblies/assembly-2025/"
@@ -181,6 +190,7 @@ items:
   - "/our-work/degrowth-events-fund/guidelines-for-2025-degrowth-events-funding-applications/"
   - "/our-work/degrowth-world-mailing-list/"
   - "/our-work/global-degrowth-day/"
+  - "/our-work/meetings/"
   - "/our-work/support-to-go-to-degrowth-events/"
   path: "/pages/our-work"
   file: content/en/pages/our-work/_index.html
