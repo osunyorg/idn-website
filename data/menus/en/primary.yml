@@ -208,15 +208,6 @@ items:
     descendants_targets: []
     path: "/pages/join-us/individual-membership"
     file: content/en/pages/join-us/individual-membership/_index.html
-  - title: Our Meetings
-    slug: our-meetings
-    target: "/join-us/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/events"
-    file: content/en/events/_index.html
   - title: Donate
     slug: donate
     target: "/join-us/donate/"
@@ -227,7 +218,6 @@ items:
     path: "/pages/join-us/donate"
     file: content/en/pages/join-us/donate/_index.html
   descendants_targets:
-  - "/join-us/"
   - "/join-us/donate/"
   - "/join-us/group-membership/"
   - "/join-us/individual-membership/"
