@@ -173,7 +173,7 @@ items:
     file: content/en/pages/our-work/support-to-go-to-degrowth-events/_index.html
   - title: Our Meetings
     slug: our-meetings
-    target: "/meetings/"
+    target: "/join-us/meetings/"
     kind: page
     new_tab: false
     children: []
@@ -181,7 +181,7 @@ items:
     path: "/events"
     file: content/en/events/_index.html
   descendants_targets:
-  - "/meetings/"
+  - "/join-us/meetings/"
   - "/our-work/assemblies/"
   - "/our-work/assemblies/assembly-2025/"
   - "/our-work/assemblies/online-assembly-2026/"
