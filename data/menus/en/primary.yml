@@ -130,8 +130,8 @@ items:
     kind: page
     new_tab: false
     children:
-    - title: OPEN NOW-Degrowth Events Fund 2026
-      slug: open-now-degrowth-events-fund-2026
+    - title: Degrowth Events Fund 2026
+      slug: degrowth-events-fund-2026
       target: "/our-work/degrowth-events-fund/2026-degrowth-events-fund/"
       kind: page
       new_tab: false
@@ -171,17 +171,7 @@ items:
     descendants_targets: []
     path: "/pages/our-work/support-to-go-to-degrowth-events"
     file: content/en/pages/our-work/support-to-go-to-degrowth-events/_index.html
-  - title: Our Meetings
-    slug: our-meetings
-    target: "/join-us/meetings/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/events"
-    file: content/en/events/_index.html
   descendants_targets:
-  - "/join-us/meetings/"
   - "/our-work/assemblies/"
   - "/our-work/assemblies/assembly-2025/"
   - "/our-work/assemblies/online-assembly-2026/"
@@ -218,6 +208,15 @@ items:
     descendants_targets: []
     path: "/pages/join-us/individual-membership"
     file: content/en/pages/join-us/individual-membership/_index.html
+  - title: Our Meetings
+    slug: our-meetings
+    target: "/join-us/meetings/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/events"
+    file: content/en/events/_index.html
   - title: Donate
     slug: donate
     target: "/join-us/donate/"
@@ -231,6 +230,7 @@ items:
   - "/join-us/donate/"
   - "/join-us/group-membership/"
   - "/join-us/individual-membership/"
+  - "/join-us/meetings/"
   path: "/pages/join-us"
   file: content/en/pages/join-us/_index.html
 - title: IDN Members
