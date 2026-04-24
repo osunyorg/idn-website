@@ -15,1222 +15,1222 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/categories/international/index.html"
+from = "/ignore-for-now/organisations/categories/international/"
 to = "/organisations/categories/international/"
 
 [[redirects]]
-from = "/members/agroecology-map/index.html"
+from = "/members/agroecology-map/"
 to = "/organisations/agroecology-map/"
 
 [[redirects]]
-from = "/en/join-us/index.html"
+from = "/en/join-us/"
 to = "/join-us/"
 
 [[redirects]]
-from = "/find-a-group/members/degrowth-switzerland/index.html"
+from = "/find-a-group/members/degrowth-switzerland/"
 to = "/organisations/degrowth-switzerland/"
 
 [[redirects]]
-from = "/en/privacy-policy/index.html"
+from = "/en/privacy-policy/"
 to = "/privacy-policy/"
 
 [[redirects]]
-from = "/en/find-a-group/members/associazione-per-la-decrescita/index.html"
+from = "/en/find-a-group/members/associazione-per-la-decrescita/"
 to = "/organisations/associazione-per-la-decrescita/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/turetim-ekonomisi-dernegi/index.html"
+from = "/ignore-for-now/organisations/turetim-ekonomisi-dernegi/"
 to = "/organisations/turetim-ekonomisi-dernegi/"
 
 [[redirects]]
-from = "/gabor-horvath/index.html"
+from = "/gabor-horvath/"
 to = "/about/team/gabor-horvath/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/research-degrowth-international/index.html"
+from = "/ignore-for-now/organisations/research-degrowth-international/"
 to = "/organisations/research-degrowth-international/"
 
 [[redirects]]
-from = "/news/2024-06-19-second-european-newsletter/index.html"
+from = "/news/2024-06-19-second-european-newsletter/"
 to = "/news/2024-06-01-second-european-newsletter/"
 
 [[redirects]]
-from = "/members/degrowth-central-victoria/index.html"
+from = "/members/degrowth-central-victoria/"
 to = "/organisations/degrowth-central-victoria/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/red-decrecer-para-vivir/index.html"
+from = "/ignore-for-now/organisations/red-decrecer-para-vivir/"
 to = "/organisations/red-decrecer-para-vivir/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/earth-thrive/index.html"
+from = "/ignore-for-now/organisations/earth-thrive/"
 to = "/organisations/earth-thrive/"
 
 [[redirects]]
-from = "/find-a-group/members/index.html"
+from = "/find-a-group/members/"
 to = "/organisations/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/ecomunidades-red-ecologista-autonoma-de-la-cuenca-de-mexico/index.html"
+from = "/ignore-for-now/organisations/ecomunidades-red-ecologista-autonoma-de-la-cuenca-de-mexico/"
 to = "/organisations/ecomunidades-red-ecologista-autonoma-de-la-cuenca-de-mexico/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/nazemi/index.html"
+from = "/ignore-for-now/organisations/nazemi/"
 to = "/organisations/nazemi/"
 
 [[redirects]]
-from = "/team/joao-wemans/index.html"
+from = "/team/joao-wemans/"
 to = "/about/team/joao-wemans/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/growing-out-of-growth/index.html"
+from = "/ignore-for-now/organisations/growing-out-of-growth/"
 to = "/organisations/growing-out-of-growth/"
 
 [[redirects]]
-from = "/find-a-group/members/degrowus/index.html"
+from = "/find-a-group/members/degrowus/"
 to = "/organisations/degrowus/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/kosmogonia/index.html"
+from = "/ignore-for-now/organisations/kosmogonia/"
 to = "/organisations/kosmogonia/"
 
 [[redirects]]
-from = "/en/about-1/principles/index.html"
+from = "/en/about-1/principles/"
 to = "/about/principles/"
 
 [[redirects]]
-from = "/members-not-in-use/degrowth-california/index.html"
+from = "/members-not-in-use/degrowth-california/"
 to = "/organisations/degrowth-california/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/degrowth-romania/index.html"
+from = "/ignore-for-now/organisations/degrowth-romania/"
 to = "/organisations/degrowth-romania/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/greenformation/index.html"
+from = "/ignore-for-now/organisations/greenformation/"
 to = "/organisations/greenformation/"
 
 [[redirects]]
-from = "/extra/team/juan-jose-de-blas/index.html"
+from = "/extra/team/juan-jose-de-blas/"
 to = "/about/team/juan-jose-de-blas/"
 
 [[redirects]]
-from = "/en/join-us/group-membership/index.html"
+from = "/en/join-us/group-membership/"
 to = "/join-us/group-membership/"
 
 [[redirects]]
-from = "/ignore-for-now/resources/post-growth-guide/index.html"
+from = "/ignore-for-now/resources/post-growth-guide/"
 to = "/post-growth-guide/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/robust-degrowth-collective/index.html"
+from = "/ignore-for-now/organisations/robust-degrowth-collective/"
 to = "/organisations/robust-degrowth-collective/"
 
 [[redirects]]
-from = "/find-a-group/members/degrowth-collective/index.html"
+from = "/find-a-group/members/degrowth-collective/"
 to = "/organisations/degrowth-collective/"
 
 [[redirects]]
-from = "/news/2024-08-20-european-newsletter-aug24/index.html"
+from = "/news/2024-08-20-european-newsletter-aug24/"
 to = "/news/2024-08-01-european-newsletter-aug24/"
 
 [[redirects]]
-from = "/en/organisations/rede-para-o-decrescimento/index.html"
+from = "/en/organisations/rede-para-o-decrescimento/"
 to = "/organisations/rede-para-o-decrescimento/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/categories/europe/index.html"
+from = "/ignore-for-now/organisations/categories/europe/"
 to = "/organisations/categories/europe/"
 
 [[redirects]]
-from = "/team/amerissa-giannouli/index.html"
+from = "/team/amerissa-giannouli/"
 to = "/about/team/amerissa-giannouli/"
 
 [[redirects]]
-from = "/posts/index.html"
+from = "/posts/"
 to = "/news/"
 
 [[redirects]]
-from = "/meetings/index.html"
+from = "/meetings/"
 to = "/join-us/meetings/"
 
 [[redirects]]
-from = "/news/2024-09-19-second-european-newsletter/index.html"
+from = "/news/2024-09-19-second-european-newsletter/"
 to = "/news/2024-06-01-second-european-newsletter/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/degrowth-norway/index.html"
+from = "/ignore-for-now/organisations/degrowth-norway/"
 to = "/organisations/degrowth-norway/"
 
 [[redirects]]
-from = "/en/organisations/ecobytes-ev/index.html"
+from = "/en/organisations/ecobytes-ev/"
 to = "/organisations/ecobytes-e-v/"
 
 [[redirects]]
-from = "/team/gabor-horvath/index.html"
+from = "/team/gabor-horvath/"
 to = "/about/team/gabor-horvath/"
 
 [[redirects]]
-from = "/it/organisations/index.html"
+from = "/it/organisations/"
 to = "/organisations/"
 
 [[redirects]]
-from = "/fr/join-us/group-membership/index.html"
+from = "/fr/join-us/group-membership/"
 to = "/join-us/group-membership/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/good-praxis/index.html"
+from = "/ignore-for-now/organisations/good-praxis/"
 to = "/organisations/good-praxis/"
 
 [[redirects]]
-from = "/history/index.html"
+from = "/history/"
 to = "/our-work/assemblies/previous-assemblies/"
 
 [[redirects]]
-from = "/fr/our-circles/index.html"
+from = "/fr/our-circles/"
 to = "/our-circles/"
 
 [[redirects]]
-from = "/juan-jose-de-blas/news/index.html"
+from = "/juan-jose-de-blas/news/"
 to = "/about/team/juan-jose-de-blas/news/"
 
 [[redirects]]
-from = "/fr/agenda/index.html"
+from = "/fr/agenda/"
 to = "/agenda/"
 
 [[redirects]]
-from = "/team/matt-tutt/news/index.html"
+from = "/team/matt-tutt/news/"
 to = "/about/team/matt-tutt/news/"
 
 [[redirects]]
-from = "/news/2024-05-18-first-european-newsletter/index.html"
+from = "/news/2024-05-18-first-european-newsletter/"
 to = "/news/2024-05-01-first-european-newsletter/"
 
 [[redirects]]
-from = "/fr/join-us/individual-membership/index.html"
+from = "/fr/join-us/individual-membership/"
 to = "/join-us/individual-membership/"
 
 [[redirects]]
-from = "/team/juliana-r/news/index.html"
+from = "/team/juliana-r/news/"
 to = "/about/team/juliana-r/news/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/de-transformisten/index.html"
+from = "/ignore-for-now/organisations/de-transformisten/"
 to = "/organisations/de-transformisten/"
 
 [[redirects]]
-from = "/members/degrowth-collective/index.html"
+from = "/members/degrowth-collective/"
 to = "/organisations/degrowth-collective/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/rede-para-o-decrecemento-eo-navia-galiza-o-bierzo/index.html"
+from = "/ignore-for-now/organisations/rede-para-o-decrecemento-eo-navia-galiza-o-bierzo/"
 to = "/organisations/rede-para-o-decrecemento-eo-navia-galiza-o-bierzo/"
 
 [[redirects]]
-from = "/organizations/degrowth-central-victoria/index.html"
+from = "/organizations/degrowth-central-victoria/"
 to = "/organisations/degrowth-central-victoria/"
 
 [[redirects]]
-from = "/organisations/north-america/index.html"
+from = "/organisations/north-america/"
 to = "/organisations/categories/north-america/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/p2p-lab/index.html"
+from = "/ignore-for-now/organisations/p2p-lab/"
 to = "/organisations/p2p-lab/"
 
 [[redirects]]
-from = "/structure/index.html"
+from = "/structure/"
 to = "/about/our-circles/"
 
 [[redirects]]
-from = "/en/about-us/index.html"
+from = "/en/about-us/"
 to = "/about/vma/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/youth-advocacy-nepal-yan/index.html"
+from = "/ignore-for-now/organisations/youth-advocacy-nepal-yan/"
 to = "/organisations/youth-advocacy-nepal-yan/"
 
 [[redirects]]
-from = "/members-not-in-use/degrowus/index.html"
+from = "/members-not-in-use/degrowus/"
 to = "/organisations/degrowus/"
 
 [[redirects]]
-from = "/our-work/degrowth-world-maling-list/index.html"
+from = "/our-work/degrowth-world-maling-list/"
 to = "/our-work/degrowth-world-mailing-list/"
 
 [[redirects]]
-from = "/team/kanika-prajapat/index.html"
+from = "/team/kanika-prajapat/"
 to = "/about/team/kanika-prajapat/"
 
 [[redirects]]
-from = "/circles/structure/index.html"
+from = "/circles/structure/"
 to = "/about/our-circles/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/the-gaian-way/index.html"
+from = "/ignore-for-now/organisations/the-gaian-way/"
 to = "/organisations/the-gaian-way/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/post-growth-guide/index.html"
+from = "/ignore-for-now/organisations/post-growth-guide/"
 to = "/organisations/post-growth-guide/"
 
 [[redirects]]
-from = "/en/team/editors/index.html"
+from = "/en/team/editors/"
 to = "/about/team/editors/"
 
 [[redirects]]
-from = "/organizations/rede-para-o-decrescimento/index.html"
+from = "/organizations/rede-para-o-decrescimento/"
 to = "/organisations/rede-para-o-decrescimento/"
 
 [[redirects]]
-from = "/en/find-a-group/members/index.html"
+from = "/en/find-a-group/members/"
 to = "/organisations/"
 
 [[redirects]]
-from = "/team/editors/index.html"
+from = "/team/editors/"
 to = "/about/team/editors/"
 
 [[redirects]]
-from = "/resources/the-degrowth-database/index.html"
+from = "/resources/the-degrowth-database/"
 to = "/the-degrowth-database/"
 
 [[redirects]]
-from = "/joao-wemans/news/index.html"
+from = "/joao-wemans/news/"
 to = "/about/team/joao-wemans/news/"
 
 [[redirects]]
-from = "/en/about/structure/index.html"
+from = "/en/about/structure/"
 to = "/about/our-circles/"
 
 [[redirects]]
-from = "/en/about-1/governance/index.html"
+from = "/en/about-1/governance/"
 to = "/about/our-circles/"
 
 [[redirects]]
-from = "/members-not-in-use/agroecology-map/index.html"
+from = "/members-not-in-use/agroecology-map/"
 to = "/organisations/agroecology-map/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/degrowth-info/index.html"
+from = "/ignore-for-now/organisations/degrowth-info/"
 to = "/organisations/degrowth-info/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/heliocene/index.html"
+from = "/ignore-for-now/organisations/heliocene/"
 to = "/organisations/heliocene/"
 
 [[redirects]]
-from = "/en/sitemap/index.html"
+from = "/en/sitemap/"
 to = "/sitemap/"
 
 [[redirects]]
-from = "/organisations/151515-magazine/index.html"
+from = "/organisations/151515-magazine/"
 to = "/organisations/15-15-15-magazine/"
 
 [[redirects]]
-from = "/extra/team/kanika-prajapat/news/index.html"
+from = "/extra/team/kanika-prajapat/news/"
 to = "/about/team/kanika-prajapat/news/"
 
 [[redirects]]
-from = "/kanika-prajapat/index.html"
+from = "/kanika-prajapat/"
 to = "/about/team/kanika-prajapat/"
 
 [[redirects]]
-from = "/ignore-for-now/team/odette-brady/news/index.html"
+from = "/ignore-for-now/team/odette-brady/news/"
 to = "/odette-brady/news/"
 
 [[redirects]]
-from = "/membes/index.html"
+from = "/membes/"
 to = "/organisations/"
 
 [[redirects]]
-from = "/members-not-in-use/associazione-per-la-decrescita/index.html"
+from = "/members-not-in-use/associazione-per-la-decrescita/"
 to = "/organisations/associazione-per-la-decrescita/"
 
 [[redirects]]
-from = "/en/individuals/index.html"
+from = "/en/individuals/"
 to = "/join-us/individual-membership/"
 
 [[redirects]]
-from = "/principles/index.html"
+from = "/principles/"
 to = "/about/principles/"
 
 [[redirects]]
-from = "/assemblies/pontevedra-assembly-2024/index.html"
+from = "/assemblies/pontevedra-assembly-2024/"
 to = "/our-work/assemblies/pontevedra-assembly-2024/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/degrowth-journal/index.html"
+from = "/ignore-for-now/organisations/degrowth-journal/"
 to = "/organisations/degrowth-journal/"
 
 [[redirects]]
-from = "/en/team/index.html"
+from = "/en/team/"
 to = "/about/team/"
 
 [[redirects]]
-from = "/members-not-in-use/degrowth-central-victoria/index.html"
+from = "/members-not-in-use/degrowth-central-victoria/"
 to = "/organisations/degrowth-central-victoria/"
 
 [[redirects]]
-from = "/find-a-group/members/agroecology-map/index.html"
+from = "/find-a-group/members/agroecology-map/"
 to = "/organisations/agroecology-map/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/movimento-decrescita-felice-mdf/index.html"
+from = "/ignore-for-now/organisations/movimento-decrescita-felice-mdf/"
 to = "/organisations/movimento-decrescita-felice-mdf/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/leadership-for-the-ecozoic/index.html"
+from = "/ignore-for-now/organisations/leadership-for-the-ecozoic/"
 to = "/organisations/leadership-for-the-ecozoic/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/degrowth-london/index.html"
+from = "/ignore-for-now/organisations/degrowth-london/"
 to = "/organisations/degrowth-london/"
 
 [[redirects]]
-from = "/agenda/archives/index.html"
+from = "/agenda/archives/"
 to = "/archives/"
 
 [[redirects]]
-from = "/members-not-in-use/wachstumswende-association/index.html"
+from = "/members-not-in-use/wachstumswende-association/"
 to = "/organisations/wachstumswende-association/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/asbl-common-grounds/index.html"
+from = "/ignore-for-now/organisations/asbl-common-grounds/"
 to = "/organisations/asbl-common-grounds/"
 
 [[redirects]]
-from = "/en/about-1/structure-and-governance/index.html"
+from = "/en/about-1/structure-and-governance/"
 to = "/about/our-circles/"
 
 [[redirects]]
-from = "/ignore-for-now/team/odette-brady/index.html"
+from = "/ignore-for-now/team/odette-brady/"
 to = "/odette-brady/"
 
 [[redirects]]
-from = "/team/index.html"
+from = "/team/"
 to = "/about/team/"
 
 [[redirects]]
-from = "/organisations/oceania/index.html"
+from = "/organisations/oceania/"
 to = "/organisations/categories/oceania/"
 
 [[redirects]]
-from = "/extra/team/kanika-prajapat/index.html"
+from = "/extra/team/kanika-prajapat/"
 to = "/about/team/kanika-prajapat/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/the-simpler-way/index.html"
+from = "/ignore-for-now/organisations/the-simpler-way/"
 to = "/organisations/the-simpler-way/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/post-growth-innovation-lab/index.html"
+from = "/ignore-for-now/organisations/post-growth-innovation-lab/"
 to = "/organisations/post-growth-innovation-lab/"
 
 [[redirects]]
-from = "/news/2024-09-19-first-european-newsletter/index.html"
+from = "/news/2024-09-19-first-european-newsletter/"
 to = "/news/2024-05-01-first-european-newsletter/"
 
 [[redirects]]
-from = "/members/degrowus/index.html"
+from = "/members/degrowus/"
 to = "/organisations/degrowus/"
 
 [[redirects]]
-from = "/en/organisations/degrowth-california/index.html"
+from = "/en/organisations/degrowth-california/"
 to = "/organisations/degrowth-california/"
 
 [[redirects]]
-from = "/team/jp-arellano/index.html"
+from = "/team/jp-arellano/"
 to = "/about/team/jp-are/"
 
 [[redirects]]
-from = "/en/index.html"
+from = "/en/"
 to = "/"
 
 [[redirects]]
-from = "/en/governance/index.html"
+from = "/en/governance/"
 to = "/about/our-circles/"
 
 [[redirects]]
-from = "/organizations/degrowth-california/index.html"
+from = "/organizations/degrowth-california/"
 to = "/organisations/degrowth-california/"
 
 [[redirects]]
-from = "/extra/team/odette-brady/news/index.html"
+from = "/extra/team/odette-brady/news/"
 to = "/odette-brady/news/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/categories/asia/index.html"
+from = "/ignore-for-now/organisations/categories/asia/"
 to = "/organisations/categories/asia/"
 
 [[redirects]]
-from = "/matt-tutt/index.html"
+from = "/matt-tutt/"
 to = "/about/team/matt-tutt/"
 
 [[redirects]]
-from = "/ignore-for-now/exhibitions/exhibitions-archives/index.html"
+from = "/ignore-for-now/exhibitions/exhibitions-archives/"
 to = "/extra/exhibitions/exhibitions-archives/"
 
 [[redirects]]
-from = "/members/associazione-per-la-decrescita/index.html"
+from = "/members/associazione-per-la-decrescita/"
 to = "/organisations/associazione-per-la-decrescita/"
 
 [[redirects]]
-from = "/find-a-group/members/degrowth-central-victoria/index.html"
+from = "/find-a-group/members/degrowth-central-victoria/"
 to = "/organisations/degrowth-central-victoria/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/berkeley-degrowth-institute/index.html"
+from = "/ignore-for-now/organisations/berkeley-degrowth-institute/"
 to = "/organisations/berkeley-degrowth-institute/"
 
 [[redirects]]
-from = "/team/matt-tutt/index.html"
+from = "/team/matt-tutt/"
 to = "/about/team/matt-tutt/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/degrowth-copenhagen/index.html"
+from = "/ignore-for-now/organisations/degrowth-copenhagen/"
 to = "/organisations/degrowth-copenhagen/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/estonian-anthropocene-center-ngo/index.html"
+from = "/ignore-for-now/organisations/estonian-anthropocene-center-ngo/"
 to = "/organisations/estonian-anthropocene-center-ngo/"
 
 [[redirects]]
-from = "/ignore-for-now/sitemap/index.html"
+from = "/ignore-for-now/sitemap/"
 to = "/sitemap/"
 
 [[redirects]]
-from = "/about/about-us/index.html"
+from = "/about/about-us/"
 to = "/about/vma/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/interstate-degrowth-exploration-and-advocacy/index.html"
+from = "/ignore-for-now/organisations/interstate-degrowth-exploration-and-advocacy/"
 to = "/organisations/interstate-degrowth-exploration-and-advocacy/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/institute-for-degrowth-studies-in-malmo/index.html"
+from = "/ignore-for-now/organisations/institute-for-degrowth-studies-in-malmo/"
 to = "/organisations/institute-for-degrowth-studies-in-malmo/"
 
 [[redirects]]
-from = "/organizations/cargonomia/index.html"
+from = "/organizations/cargonomia/"
 to = "/organisations/cargonomia/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/steady-state-manchester/index.html"
+from = "/ignore-for-now/organisations/steady-state-manchester/"
 to = "/organisations/steady-state-manchester/"
 
 [[redirects]]
-from = "/juliana-juliana/news/index.html"
+from = "/juliana-juliana/news/"
 to = "/about/team/juliana-r/news/"
 
 [[redirects]]
-from = "/news/2024-09-20-third-european-newsletter/index.html"
+from = "/news/2024-09-20-third-european-newsletter/"
 to = "/news/2024-07-01-third-european-newsletter/"
 
 [[redirects]]
-from = "/en/about/governance/index.html"
+from = "/en/about/governance/"
 to = "/about/governance/"
 
 [[redirects]]
-from = "/exhibitions/index.html"
+from = "/exhibitions/"
 to = "/extra/exhibitions/"
 
 [[redirects]]
-from = "/extra/resources/post-growth-guide/index.html"
+from = "/extra/resources/post-growth-guide/"
 to = "/post-growth-guide/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/youth-association-for-development-yad-pakistan/index.html"
+from = "/ignore-for-now/organisations/youth-association-for-development-yad-pakistan/"
 to = "/organisations/youth-association-for-development-yad-pakistan/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/associazione-per-la-decrescita/index.html"
+from = "/ignore-for-now/organisations/associazione-per-la-decrescita/"
 to = "/organisations/associazione-per-la-decrescita/"
 
 [[redirects]]
-from = "/ignore-for-now/resources/degrowth-101/index.html"
+from = "/ignore-for-now/resources/degrowth-101/"
 to = "/degrowth-101/"
 
 [[redirects]]
-from = "/about/history/index.html"
+from = "/about/history/"
 to = "/our-work/assemblies/previous-assemblies/"
 
 [[redirects]]
-from = "/en/about-1/about-us/index.html"
+from = "/en/about-1/about-us/"
 to = "/about/vma/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/instituto-resiliencia/index.html"
+from = "/ignore-for-now/organisations/instituto-resiliencia/"
 to = "/organisations/instituto-resiliencia/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/categories/north-america/index.html"
+from = "/ignore-for-now/organisations/categories/north-america/"
 to = "/organisations/categories/north-america/"
 
 [[redirects]]
-from = "/ignore-for-now/team/juan-jose-de-blas/index.html"
+from = "/ignore-for-now/team/juan-jose-de-blas/"
 to = "/about/team/juan-jose-de-blas/"
 
 [[redirects]]
-from = "/en/about/index.html"
+from = "/en/about/"
 to = "/about/vma/"
 
 [[redirects]]
-from = "/find-a-group/members/ecobytes-ev/index.html"
+from = "/find-a-group/members/ecobytes-ev/"
 to = "/organisations/ecobytes-e-v/"
 
 [[redirects]]
-from = "/en/organisations/agroecology-map/index.html"
+from = "/en/organisations/agroecology-map/"
 to = "/organisations/agroecology-map/"
 
 [[redirects]]
-from = "/extra/team/odette-brady/index.html"
+from = "/extra/team/odette-brady/"
 to = "/odette-brady/"
 
 [[redirects]]
-from = "/organizations/index.html"
+from = "/organizations/"
 to = "/organisations/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/noesya/index.html"
+from = "/ignore-for-now/organisations/noesya/"
 to = "/organisations/noesya/"
 
 [[redirects]]
-from = "/extra/team/editors/index.html"
+from = "/extra/team/editors/"
 to = "/about/team/editors/"
 
 [[redirects]]
-from = "/en/about/about-us/index.html"
+from = "/en/about/about-us/"
 to = "/about/vma/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/degrowth-vienna/index.html"
+from = "/ignore-for-now/organisations/degrowth-vienna/"
 to = "/organisations/degrowth-vienna/"
 
 [[redirects]]
-from = "/team/odette-brady/index.html"
+from = "/team/odette-brady/"
 to = "/odette-brady/"
 
 [[redirects]]
-from = "/members-not-in-use/degrowth-collective/index.html"
+from = "/members-not-in-use/degrowth-collective/"
 to = "/organisations/degrowth-collective/"
 
 [[redirects]]
-from = "/matt-tutt/news/index.html"
+from = "/matt-tutt/news/"
 to = "/about/team/matt-tutt/news/"
 
 [[redirects]]
-from = "/about-us/index.html"
+from = "/about-us/"
 to = "/about/vma/"
 
 [[redirects]]
-from = "/juliana-r/index.html"
+from = "/juliana-r/"
 to = "/about/team/juliana-r/"
 
 [[redirects]]
-from = "/guidelines-for-2025-degrowth-events-funding-applications/index.html"
+from = "/guidelines-for-2025-degrowth-events-funding-applications/"
 to = "/our-work/degrowth-events-fund/guidelines-for-2025-degrowth-events-funding-applications/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/agroecology-map/index.html"
+from = "/ignore-for-now/organisations/agroecology-map/"
 to = "/organisations/agroecology-map/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/observatori-del-deute-en-la-globalitzacio/index.html"
+from = "/ignore-for-now/organisations/observatori-del-deute-en-la-globalitzacio/"
 to = "/organisations/observatori-del-deute-en-la-globalitzacio/"
 
 [[redirects]]
-from = "/assemblies/history/index.html"
+from = "/assemblies/history/"
 to = "/our-work/assemblies/previous-assemblies/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/degrowth-festival-copenhagen/index.html"
+from = "/ignore-for-now/organisations/degrowth-festival-copenhagen/"
 to = "/organisations/degrowth-festival-copenhagen/"
 
 [[redirects]]
-from = "/assemblies/assembly-2025/index.html"
+from = "/assemblies/assembly-2025/"
 to = "/our-work/assemblies/assembly-2025/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/degrowth-california/index.html"
+from = "/ignore-for-now/organisations/degrowth-california/"
 to = "/organisations/degrowth-california/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/degrowth-collective/index.html"
+from = "/ignore-for-now/organisations/degrowth-collective/"
 to = "/organisations/degrowth-collective/"
 
 [[redirects]]
-from = "/organisations/ecobytes-ev/index.html"
+from = "/organisations/ecobytes-ev/"
 to = "/organisations/ecobytes-e-v/"
 
 [[redirects]]
-from = "/find-a-group/members/associazione-per-la-decrescita/index.html"
+from = "/find-a-group/members/associazione-per-la-decrescita/"
 to = "/organisations/associazione-per-la-decrescita/"
 
 [[redirects]]
-from = "/en/legal-terms/index.html"
+from = "/en/legal-terms/"
 to = "/legal-terms/"
 
 [[redirects]]
-from = "/en/about-1/about/index.html"
+from = "/en/about-1/about/"
 to = "/about/vma/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/support-group-for-international-degrowth-conferences/index.html"
+from = "/ignore-for-now/organisations/support-group-for-international-degrowth-conferences/"
 to = "/organisations/support-group-for-international-degrowth-conferences/"
 
 [[redirects]]
-from = "/members-not-in-use/degrowth-switzerland/index.html"
+from = "/members-not-in-use/degrowth-switzerland/"
 to = "/organisations/degrowth-switzerland/"
 
 [[redirects]]
-from = "/en/organisations/degrowth-collective/index.html"
+from = "/en/organisations/degrowth-collective/"
 to = "/organisations/degrowth-collective/"
 
 [[redirects]]
-from = "/team/odette-brady/news/index.html"
+from = "/team/odette-brady/news/"
 to = "/odette-brady/news/"
 
 [[redirects]]
-from = "/news/2024-09-20-european-newsletter-sep24/index.html"
+from = "/news/2024-09-20-european-newsletter-sep24/"
 to = "/news/2024-09-01-european-newsletter-sep24/"
 
 [[redirects]]
-from = "/en/join-us/individual-membership/index.html"
+from = "/en/join-us/individual-membership/"
 to = "/join-us/individual-membership/"
 
 [[redirects]]
-from = "/ignore-for-now/resources/the-degrowth-database/index.html"
+from = "/ignore-for-now/resources/the-degrowth-database/"
 to = "/the-degrowth-database/"
 
 [[redirects]]
-from = "/individual-membership/index.html"
+from = "/individual-membership/"
 to = "/join-us/individual-membership/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/fondazione-benvenuti-in-italia/index.html"
+from = "/ignore-for-now/organisations/fondazione-benvenuti-in-italia/"
 to = "/organisations/fondazione-benvenuti-in-italia/"
 
 [[redirects]]
-from = "/global-degrowth-day/index.html"
+from = "/global-degrowth-day/"
 to = "/our-work/global-degrowth-day/"
 
 [[redirects]]
-from = "/resources/degrowth-101/index.html"
+from = "/resources/degrowth-101/"
 to = "/degrowth-101/"
 
 [[redirects]]
-from = "/members/cargonomia/index.html"
+from = "/members/cargonomia/"
 to = "/organisations/cargonomia/"
 
 [[redirects]]
-from = "/team/juan-jose-de-blas/index.html"
+from = "/team/juan-jose-de-blas/"
 to = "/about/team/juan-jose-de-blas/"
 
 [[redirects]]
-from = "/organizations/associazione-per-la-decrescita/index.html"
+from = "/organizations/associazione-per-la-decrescita/"
 to = "/organisations/associazione-per-la-decrescita/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/the-shutdown315-movement/index.html"
+from = "/ignore-for-now/organisations/the-shutdown315-movement/"
 to = "/organisations/the-shutdown315-movement/"
 
 [[redirects]]
-from = "/organisations/international/index.html"
+from = "/organisations/international/"
 to = "/organisations/categories/international/"
 
 [[redirects]]
-from = "/organizations/ecobytes-ev/index.html"
+from = "/organizations/ecobytes-ev/"
 to = "/organisations/ecobytes-e-v/"
 
 [[redirects]]
-from = "/news/2024-07-20-third-european-newsletter/index.html"
+from = "/news/2024-07-20-third-european-newsletter/"
 to = "/news/2024-07-01-third-european-newsletter/"
 
 [[redirects]]
-from = "/our-work/assemblies/online-assembly-2026-1/index.html"
+from = "/our-work/assemblies/online-assembly-2026-1/"
 to = "/our-work/assemblies/online-assembly-2026/"
 
 [[redirects]]
-from = "/news/2024-09-20-third-european-newsletter-1/index.html"
+from = "/news/2024-09-20-third-european-newsletter-1/"
 to = "/news/2024-08-01-european-newsletter-aug24/"
 
 [[redirects]]
-from = "/en/organisations/cargonomia/index.html"
+from = "/en/organisations/cargonomia/"
 to = "/organisations/cargonomia/"
 
 [[redirects]]
-from = "/organizations/degrowth-collective/index.html"
+from = "/organizations/degrowth-collective/"
 to = "/organisations/degrowth-collective/"
 
 [[redirects]]
-from = "/news/2024-09-18-first-european-newsletter/index.html"
+from = "/news/2024-09-18-first-european-newsletter/"
 to = "/news/2024-05-01-first-european-newsletter/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/degrowth-tkaronto/index.html"
+from = "/ignore-for-now/organisations/degrowth-tkaronto/"
 to = "/organisations/degrowth-tkaronto/"
 
 [[redirects]]
-from = "/organizations/degrowth-switzerland/index.html"
+from = "/organizations/degrowth-switzerland/"
 to = "/organisations/degrowth-switzerland/"
 
 [[redirects]]
-from = "/en/organisations/wachstumswende-association/index.html"
+from = "/en/organisations/wachstumswende-association/"
 to = "/organisations/wachstumswende-association/"
 
 [[redirects]]
-from = "/en/organizations/index.html"
+from = "/en/organizations/"
 to = "/organisations/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/federation-of-young-european-greens/index.html"
+from = "/ignore-for-now/organisations/federation-of-young-european-greens/"
 to = "/organisations/federation-of-young-european-greens/"
 
 [[redirects]]
-from = "/organizations/agroecology-map/index.html"
+from = "/organizations/agroecology-map/"
 to = "/organisations/agroecology-map/"
 
 [[redirects]]
-from = "/idn-member-groups-and-organisations/index.html"
+from = "/idn-member-groups-and-organisations/"
 to = "/members/"
 
 [[redirects]]
-from = "/extra/team/juan-jose-de-blas/news/index.html"
+from = "/extra/team/juan-jose-de-blas/news/"
 to = "/about/team/juan-jose-de-blas/news/"
 
 [[redirects]]
-from = "/fr/index.html"
+from = "/fr/"
 to = "/"
 
 [[redirects]]
-from = "/en/our-circles/index.html"
+from = "/en/our-circles/"
 to = "/about/our-circles/"
 
 [[redirects]]
-from = "/en/about-1/structure/index.html"
+from = "/en/about-1/structure/"
 to = "/about/our-circles/"
 
 [[redirects]]
-from = "/team/joao-wemans/news/index.html"
+from = "/team/joao-wemans/news/"
 to = "/about/team/joao-wemans/news/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/re-action/index.html"
+from = "/ignore-for-now/organisations/re-action/"
 to = "/organisations/re-action/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/cargonomia/index.html"
+from = "/ignore-for-now/organisations/cargonomia/"
 to = "/organisations/cargonomia/"
 
 [[redirects]]
-from = "/en/about/principles/index.html"
+from = "/en/about/principles/"
 to = "/about/principles/"
 
 [[redirects]]
-from = "/find-a-group/members/degrowth-california/index.html"
+from = "/find-a-group/members/degrowth-california/"
 to = "/organisations/degrowth-california/"
 
 [[redirects]]
-from = "/extra/team/joao-wemans/index.html"
+from = "/extra/team/joao-wemans/"
 to = "/about/team/joao-wemans/"
 
 [[redirects]]
-from = "/organisations/degrowthinfo/index.html"
+from = "/organisations/degrowthinfo/"
 to = "/organisations/degrowth-info/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/degrowth-network-australia/index.html"
+from = "/ignore-for-now/organisations/degrowth-network-australia/"
 to = "/organisations/degrowth-network-australia/"
 
 [[redirects]]
-from = "/news/2024-09-20-european-newsletter-aug24/index.html"
+from = "/news/2024-09-20-european-newsletter-aug24/"
 to = "/news/2024-08-01-european-newsletter-aug24/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/degrowth-central-victoria/index.html"
+from = "/ignore-for-now/organisations/degrowth-central-victoria/"
 to = "/organisations/degrowth-central-victoria/"
 
 [[redirects]]
-from = "/assemblies/index.html"
+from = "/assemblies/"
 to = "/our-work/assemblies/"
 
 [[redirects]]
-from = "/en/accessibility/index.html"
+from = "/en/accessibility/"
 to = "/accessibility/"
 
 [[redirects]]
-from = "/en/individual-membership/index.html"
+from = "/en/individual-membership/"
 to = "/join-us/individual-membership/"
 
 [[redirects]]
-from = "/ignore-for-now/legal-terms/index.html"
+from = "/ignore-for-now/legal-terms/"
 to = "/legal-terms/"
 
 [[redirects]]
-from = "/extra/resources/degrowth-101/index.html"
+from = "/extra/resources/degrowth-101/"
 to = "/degrowth-101/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/blue-degrowth-network/index.html"
+from = "/ignore-for-now/organisations/blue-degrowth-network/"
 to = "/organisations/blue-degrowth-network/"
 
 [[redirects]]
-from = "/en/posts/index.html"
+from = "/en/posts/"
 to = "/news/"
 
 [[redirects]]
-from = "/extra/team/matt-tutt/index.html"
+from = "/extra/team/matt-tutt/"
 to = "/about/team/matt-tutt/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/centre-for-the-understanding-of-sustainable-prosperity/index.html"
+from = "/ignore-for-now/organisations/centre-for-the-understanding-of-sustainable-prosperity/"
 to = "/organisations/centre-for-the-understanding-of-sustainable-prosperity/"
 
 [[redirects]]
-from = "/extra/team/joao-wemans/news/index.html"
+from = "/extra/team/joao-wemans/news/"
 to = "/about/team/joao-wemans/news/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/post-growth-singapore/index.html"
+from = "/ignore-for-now/organisations/post-growth-singapore/"
 to = "/organisations/post-growth-singapore/"
 
 [[redirects]]
-from = "/extra/team/matt-tutt/news/index.html"
+from = "/extra/team/matt-tutt/news/"
 to = "/about/team/matt-tutt/news/"
 
 [[redirects]]
-from = "/find-a-group/members/wachstumswende-association/index.html"
+from = "/find-a-group/members/wachstumswende-association/"
 to = "/organisations/wachstumswende-association/"
 
 [[redirects]]
-from = "/fr/about/index.html"
+from = "/fr/about/"
 to = "/about/"
 
 [[redirects]]
-from = "/organizations/degrowus/index.html"
+from = "/organizations/degrowus/"
 to = "/organisations/degrowus/"
 
 [[redirects]]
-from = "/members/rede-para-o-decrescimento/index.html"
+from = "/members/rede-para-o-decrescimento/"
 to = "/organisations/rede-para-o-decrescimento/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/law-degrowth-post-growth-network/index.html"
+from = "/ignore-for-now/organisations/law-degrowth-post-growth-network/"
 to = "/organisations/law-degrowth-post-growth-network/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/degrowus/index.html"
+from = "/ignore-for-now/organisations/degrowus/"
 to = "/organisations/degrowus/"
 
 [[redirects]]
-from = "/organizations/wachstumswende-association/index.html"
+from = "/organizations/wachstumswende-association/"
 to = "/organisations/wachstumswende-association/"
 
 [[redirects]]
-from = "/resources/post-growth-guide/index.html"
+from = "/resources/post-growth-guide/"
 to = "/post-growth-guide/"
 
 [[redirects]]
-from = "/ignore-for-now/team/editors/index.html"
+from = "/ignore-for-now/team/editors/"
 to = "/about/team/editors/"
 
 [[redirects]]
-from = "/exhibitions/exhibitions-archives/index.html"
+from = "/exhibitions/exhibitions-archives/"
 to = "/extra/exhibitions/exhibitions-archives/"
 
 [[redirects]]
-from = "/en/about/idn/index.html"
+from = "/en/about/idn/"
 to = "/about/vma/"
 
 [[redirects]]
-from = "/organisations/europe/index.html"
+from = "/organisations/europe/"
 to = "/organisations/categories/europe/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/degrowth-switzerland/index.html"
+from = "/ignore-for-now/organisations/degrowth-switzerland/"
 to = "/organisations/degrowth-switzerland/"
 
 [[redirects]]
-from = "/members/degrowth-switzerland/index.html"
+from = "/members/degrowth-switzerland/"
 to = "/organisations/degrowth-switzerland/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/poems-for-parliament/index.html"
+from = "/ignore-for-now/organisations/poems-for-parliament/"
 to = "/organisations/poems-for-parliament/"
 
 [[redirects]]
-from = "/news/2024-11-05-european-newsletter-nov24/index.html"
+from = "/news/2024-11-05-european-newsletter-nov24/"
 to = "/news/2024-11-01-european-newsletter-nov24/"
 
 [[redirects]]
-from = "/en/group-membership/index.html"
+from = "/en/group-membership/"
 to = "/join-us/group-membership/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/dewzrost-polska-degrowth-poland/index.html"
+from = "/ignore-for-now/organisations/dewzrost-polska-degrowth-poland/"
 to = "/organisations/dewzrost-polska-degrowth-poland/"
 
 [[redirects]]
-from = "/it/index.html"
+from = "/it/"
 to = "/"
 
 [[redirects]]
-from = "/en/principles/index.html"
+from = "/en/principles/"
 to = "/about/principles/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/categories/oceania/index.html"
+from = "/ignore-for-now/organisations/categories/oceania/"
 to = "/organisations/categories/oceania/"
 
 [[redirects]]
-from = "/juan-jose-de-blas/index.html"
+from = "/juan-jose-de-blas/"
 to = "/about/team/juan-jose-de-blas/"
 
 [[redirects]]
-from = "/ignore-for-now/accessibility/index.html"
+from = "/ignore-for-now/accessibility/"
 to = "/accessibility/"
 
 [[redirects]]
-from = "/about/idn/index.html"
+from = "/about/idn/"
 to = "/about/vma/"
 
 [[redirects]]
-from = "/en/organisations/index.html"
+from = "/en/organisations/"
 to = "/join-us/group-membership/"
 
 [[redirects]]
-from = "/members/wachstumswende-association/index.html"
+from = "/members/wachstumswende-association/"
 to = "/organisations/wachstumswende-association/"
 
 [[redirects]]
-from = "/governance/index.html"
+from = "/governance/"
 to = "/about/governance/"
 
 [[redirects]]
-from = "/group-membership/index.html"
+from = "/group-membership/"
 to = "/join-us/group-membership/"
 
 [[redirects]]
-from = "/find-a-group/members/rede-para-o-decrescimento/index.html"
+from = "/find-a-group/members/rede-para-o-decrescimento/"
 to = "/organisations/rede-para-o-decrescimento/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/degrowth-institute/index.html"
+from = "/ignore-for-now/organisations/degrowth-institute/"
 to = "/organisations/degrowth-institute/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/categories/collaborators/index.html"
+from = "/ignore-for-now/organisations/categories/collaborators/"
 to = "/organisations/categories/collaborators/"
 
 [[redirects]]
-from = "/en/about/structure-and-governance/index.html"
+from = "/en/about/structure-and-governance/"
 to = "/about/our-circles/"
 
 [[redirects]]
-from = "/felix-garnier/index.html"
+from = "/felix-garnier/"
 to = "/about/team/felix-garnier/"
 
 [[redirects]]
-from = "/team/juan-jose-de-blas/news/index.html"
+from = "/team/juan-jose-de-blas/news/"
 to = "/about/team/juan-jose-de-blas/news/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/rede-para-o-decrescimento/index.html"
+from = "/ignore-for-now/organisations/rede-para-o-decrescimento/"
 to = "/organisations/rede-para-o-decrescimento/"
 
 [[redirects]]
-from = "/members/ecobytes-ev/index.html"
+from = "/members/ecobytes-ev/"
 to = "/organisations/ecobytes-e-v/"
 
 [[redirects]]
-from = "/en/join-us/individuals/index.html"
+from = "/en/join-us/individuals/"
 to = "/join-us/individual-membership/"
 
 [[redirects]]
-from = "/members-not-in-use/index.html"
+from = "/members-not-in-use/"
 to = "/organisations/"
 
 [[redirects]]
-from = "/ignore-for-now/team/juan-jose-de-blas/news/index.html"
+from = "/ignore-for-now/team/juan-jose-de-blas/news/"
 to = "/about/team/juan-jose-de-blas/news/"
 
 [[redirects]]
-from = "/organisations/asia/index.html"
+from = "/organisations/asia/"
 to = "/organisations/categories/asia/"
 
 [[redirects]]
-from = "/membes/associazione-per-la-decrescita/index.html"
+from = "/membes/associazione-per-la-decrescita/"
 to = "/organisations/associazione-per-la-decrescita/"
 
 [[redirects]]
-from = "/juliana-r/news/index.html"
+from = "/juliana-r/news/"
 to = "/about/team/juliana-r/news/"
 
 [[redirects]]
-from = "/members-not-in-use/cargonomia/index.html"
+from = "/members-not-in-use/cargonomia/"
 to = "/organisations/cargonomia/"
 
 [[redirects]]
-from = "/assemblies/2025-assembly/index.html"
+from = "/assemblies/2025-assembly/"
 to = "/our-work/assemblies/assembly-2025/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/degrowth-aotearoa-new-zealand/index.html"
+from = "/ignore-for-now/organisations/degrowth-aotearoa-new-zealand/"
 to = "/organisations/degrowth-aotearoa-new-zealand/"
 
 [[redirects]]
-from = "/en/structure/index.html"
+from = "/en/structure/"
 to = "/about/our-circles/"
 
 [[redirects]]
-from = "/team/juliana-r/index.html"
+from = "/team/juliana-r/"
 to = "/about/team/juliana-r/"
 
 [[redirects]]
-from = "/en/organisations/degrowus/index.html"
+from = "/en/organisations/degrowus/"
 to = "/organisations/degrowus/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/ecoist/index.html"
+from = "/ignore-for-now/organisations/ecoist/"
 to = "/organisations/ecoist/"
 
 [[redirects]]
-from = "/kanika-prajapat/news/index.html"
+from = "/kanika-prajapat/news/"
 to = "/about/team/kanika-prajapat/news/"
 
 [[redirects]]
-from = "/en/join-us/organisations/index.html"
+from = "/en/join-us/organisations/"
 to = "/join-us/group-membership/"
 
 [[redirects]]
-from = "/fr/organisations/index.html"
+from = "/fr/organisations/"
 to = "/organisations/"
 
 [[redirects]]
-from = "/members/degrowth-california/index.html"
+from = "/members/degrowth-california/"
 to = "/organisations/degrowth-california/"
 
 [[redirects]]
-from = "/en/agenda/index.html"
+from = "/en/agenda/"
 to = "/join-us/meetings/"
 
 [[redirects]]
-from = "/news/2024-12-31-european-newsletter-jan25/index.html"
+from = "/news/2024-12-31-european-newsletter-jan25/"
 to = "/news/2025-01-02-european-newsletter-jan25/"
 
 [[redirects]]
-from = "/juliana-juliana/index.html"
+from = "/juliana-juliana/"
 to = "/about/team/juliana-r/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/15-15-15-magazine/index.html"
+from = "/ignore-for-now/organisations/15-15-15-magazine/"
 to = "/organisations/15-15-15-magazine/"
 
 [[redirects]]
-from = "/news/2026-03-12-the-social-forum/index.html"
+from = "/news/2026-03-12-the-social-forum/"
 to = "/news/2026-03-12-the-spanish-social-forum/"
 
 [[redirects]]
-from = "/fr/join-us/index.html"
+from = "/fr/join-us/"
 to = "/join-us/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/wachstumswende-association/index.html"
+from = "/ignore-for-now/organisations/wachstumswende-association/"
 to = "/organisations/wachstumswende-association/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/shiftslow/index.html"
+from = "/ignore-for-now/organisations/shiftslow/"
 to = "/organisations/shiftslow/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/ecobytes-e-v/index.html"
+from = "/ignore-for-now/organisations/ecobytes-e-v/"
 to = "/organisations/ecobytes-e-v/"
 
 [[redirects]]
-from = "/team/kanika-prajapat/news/index.html"
+from = "/team/kanika-prajapat/news/"
 to = "/about/team/kanika-prajapat/news/"
 
 [[redirects]]
-from = "/find-a-group/members/cargonomia/index.html"
+from = "/find-a-group/members/cargonomia/"
 to = "/organisations/cargonomia/"
 
 [[redirects]]
-from = "/exhibitions-archives/index.html"
+from = "/exhibitions-archives/"
 to = "/extra/exhibitions/exhibitions-archives/"
 
 [[redirects]]
-from = "/en/organisations/degrowth-central-victoria/index.html"
+from = "/en/organisations/degrowth-central-victoria/"
 to = "/organisations/degrowth-central-victoria/"
 
 [[redirects]]
-from = "/pontevedra-assembly-2024/index.html"
+from = "/pontevedra-assembly-2024/"
 to = "/our-work/assemblies/pontevedra-assembly-2024/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/journal-mondes-en-decroissance/index.html"
+from = "/ignore-for-now/organisations/journal-mondes-en-decroissance/"
 to = "/organisations/journal-mondes-en-decroissance/"
 
 [[redirects]]
-from = "/our-work/guidelines-for-2025-degrowth-events-funding-applications/index.html"
+from = "/our-work/guidelines-for-2025-degrowth-events-funding-applications/"
 to = "/our-work/degrowth-events-fund/guidelines-for-2025-degrowth-events-funding-applications/"
 
 [[redirects]]
-from = "/members-not-in-use/rede-para-o-decrescimento/index.html"
+from = "/members-not-in-use/rede-para-o-decrescimento/"
 to = "/organisations/rede-para-o-decrescimento/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/growthkills/index.html"
+from = "/ignore-for-now/organisations/growthkills/"
 to = "/organisations/growthkills/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/complexity-group/index.html"
+from = "/ignore-for-now/organisations/complexity-group/"
 to = "/organisations/complexity-group/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/post-growth-economics-network/index.html"
+from = "/ignore-for-now/organisations/post-growth-economics-network/"
 to = "/organisations/post-growth-economics-network/"
 
 [[redirects]]
-from = "/en/organisations/degrowth-switzerland/index.html"
+from = "/en/organisations/degrowth-switzerland/"
 to = "/organisations/degrowth-switzerland/"
 
 [[redirects]]
-from = "/organisations/degrowth-vienna-verein-zur-forderung-der-degrowth-bewegung/index.html"
+from = "/organisations/degrowth-vienna-verein-zur-forderung-der-degrowth-bewegung/"
 to = "/organisations/degrowth-vienna/"
 
 [[redirects]]
-from = "/extra/resources/the-degrowth-database/index.html"
+from = "/extra/resources/the-degrowth-database/"
 to = "/the-degrowth-database/"
 
 [[redirects]]
-from = "/en/agenda/archives/index.html"
+from = "/en/agenda/archives/"
 to = "/archives/"
 
 [[redirects]]
-from = "/joao-wemans/index.html"
+from = "/joao-wemans/"
 to = "/about/team/joao-wemans/"
 
 [[redirects]]
-from = "/team/felix-garnier/index.html"
+from = "/team/felix-garnier/"
 to = "/about/team/felix-garnier/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/institute-for-political-ecology/index.html"
+from = "/ignore-for-now/organisations/institute-for-political-ecology/"
 to = "/organisations/institute-for-political-ecology/"
 
 [[redirects]]
-from = "/en/organisations/associazione-per-la-decrescita/index.html"
+from = "/en/organisations/associazione-per-la-decrescita/"
 to = "/organisations/associazione-per-la-decrescita/"
 
 [[redirects]]
-from = "/our-work/support-for-travelling-to-degrowth-events/index.html"
+from = "/our-work/support-for-travelling-to-degrowth-events/"
 to = "/our-work/support-to-go-to-degrowth-events/"
 
 [[redirects]]
-from = "/members-not-in-use/ecobytes-ev/index.html"
+from = "/members-not-in-use/ecobytes-ev/"
 to = "/organisations/ecobytes-e-v/"
 
 [[redirects]]
-from = "/editors/index.html"
+from = "/editors/"
 to = "/about/team/editors/"
 
