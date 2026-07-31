@@ -163,10 +163,6 @@ from = "/ignore-for-now/organisations/degrowth-norway/index.html"
 to = "/organisations/degrowth-norway/"
 
 [[redirects]]
-from = "/en/organisations/ecobytes-ev/index.html"
-to = "/organisations/ecobytes-e-v/"
-
-[[redirects]]
 from = "/team/gabor-horvath/index.html"
 to = "/about/team/gabor-horvath/"
 
@@ -575,10 +571,6 @@ from = "/en/about/index.html"
 to = "/about/vma/"
 
 [[redirects]]
-from = "/find-a-group/members/ecobytes-ev/index.html"
-to = "/organisations/ecobytes-e-v/"
-
-[[redirects]]
 from = "/en/organisations/agroecology-map/index.html"
 to = "/organisations/agroecology-map/"
 
@@ -659,10 +651,6 @@ from = "/ignore-for-now/organisations/degrowth-collective/index.html"
 to = "/organisations/degrowth-collective/"
 
 [[redirects]]
-from = "/organisations/ecobytes-ev/index.html"
-to = "/organisations/ecobytes-e-v/"
-
-[[redirects]]
 from = "/find-a-group/members/associazione-per-la-decrescita/index.html"
 to = "/organisations/associazione-per-la-decrescita/"
 
@@ -737,10 +725,6 @@ to = "/organisations/the-shutdown315-movement/"
 [[redirects]]
 from = "/organisations/international/index.html"
 to = "/organisations/categories/international/"
-
-[[redirects]]
-from = "/organizations/ecobytes-ev/index.html"
-to = "/organisations/ecobytes-e-v/"
 
 [[redirects]]
 from = "/news/2024-07-20-third-european-newsletter/index.html"
@@ -1039,10 +1023,6 @@ from = "/ignore-for-now/organisations/rede-para-o-decrescimento/index.html"
 to = "/organisations/rede-para-o-decrescimento/"
 
 [[redirects]]
-from = "/members/ecobytes-ev/index.html"
-to = "/organisations/ecobytes-e-v/"
-
-[[redirects]]
 from = "/en/join-us/individuals/index.html"
 to = "/join-us/individual-membership/"
 
@@ -1143,10 +1123,6 @@ from = "/ignore-for-now/organisations/shiftslow/index.html"
 to = "/organisations/shiftslow/"
 
 [[redirects]]
-from = "/ignore-for-now/organisations/ecobytes-e-v/index.html"
-to = "/organisations/ecobytes-e-v/"
-
-[[redirects]]
 from = "/team/kanika-prajapat/news/index.html"
 to = "/about/team/kanika-prajapat/news/"
 
@@ -1225,10 +1201,6 @@ to = "/organisations/associazione-per-la-decrescita/"
 [[redirects]]
 from = "/our-work/support-for-travelling-to-degrowth-events/index.html"
 to = "/our-work/support-to-go-to-degrowth-events/"
-
-[[redirects]]
-from = "/members-not-in-use/ecobytes-ev/index.html"
-to = "/organisations/ecobytes-e-v/"
 
 [[redirects]]
 from = "/editors/index.html"
