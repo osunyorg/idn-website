@@ -13,5 +13,5 @@ allowed_domains:
   - "youtube-nocookie.com"
   - "www.youtube-nocookie.com"
   - "my.liberaforms.org"
-  - "embed.kumu.io"
   - "calendar.google.com"
+  - "embed.kumu.io"
