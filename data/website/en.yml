@@ -1,0 +1,41 @@
+default:
+contents_reading_time:
+  seconds: 1
+  text: >-
+    less than a minute
+contents:
+  - kind: block
+    template: chapter
+
+
+    ranks:
+      base: 2
+    top:
+      active: false
+
+    data:
+      layout: no_background
+      text: >-
+        <p>IMPRESSUM: <a href="https://degrowth.net/impressum/" target="_blank" rel="noreferrer">https://degrowth.net/impressum/ <span class="sr-only">(external link)</span></a> </p>
+
+
+
+  - kind: block
+    template: links
+
+
+    ranks:
+      base: 2
+    top:
+      active: false
+
+    data:
+
+      layout: cards
+      options:
+        icons: false
+
+      links:
+
+
+
