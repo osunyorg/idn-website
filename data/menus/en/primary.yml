@@ -171,6 +171,15 @@ items:
     descendants_targets: []
     path: "/pages/our-work/support-to-go-to-degrowth-events"
     file: content/en/pages/our-work/support-to-go-to-degrowth-events/_index.html
+  - title: IDN Position Paper for COP31
+    slug: idn-position-paper-for-cop31
+    target: "/our-work/idn-position-paper-for-cop31/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/our-work/idn-position-paper-for-cop31"
+    file: content/en/pages/our-work/idn-position-paper-for-cop31/_index.html
   descendants_targets:
   - "/our-work/assemblies/"
   - "/our-work/assemblies/assembly-2025/"
@@ -181,6 +190,7 @@ items:
   - "/our-work/degrowth-events-fund/guidelines-for-2025-degrowth-events-funding-applications/"
   - "/our-work/degrowth-world-mailing-list/"
   - "/our-work/global-degrowth-day/"
+  - "/our-work/idn-position-paper-for-cop31/"
   - "/our-work/support-to-go-to-degrowth-events/"
   path: "/pages/our-work"
   file: content/en/pages/our-work/_index.html
