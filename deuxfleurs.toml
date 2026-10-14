@@ -863,6 +863,10 @@ from = "/en/posts/index.html"
 to = "/news/"
 
 [[redirects]]
+from = "/join-us/donate/index.html"
+to = "/donate/"
+
+[[redirects]]
 from = "/extra/team/matt-tutt/index.html"
 to = "/about/team/matt-tutt/"
 

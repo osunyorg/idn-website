@@ -213,15 +213,6 @@ items:
   - "/join-us/individual-membership/"
   path: "/pages/join-us"
   file: content/en/pages/join-us/_index.html
-- title: Donate
-  slug: donate
-  target: "/join-us/donate/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/pages/join-us/donate"
-  file: content/en/pages/join-us/donate/_index.html
 - title: IDN Members
   slug: idn-members
   target: "/members/"
@@ -240,6 +231,15 @@ items:
   descendants_targets: []
   path: "/posts"
   file: content/en/posts/_index.html
+- title: Donate
+  slug: donate
+  target: "/donate/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/donate"
+  file: content/en/pages/donate/_index.html
 - title: Explore Degrowth
   slug: explore-degrowth
   target: https://explore.degrowth.net/
