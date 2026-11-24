@@ -168,8 +168,8 @@ items:
       descendants_targets: []
       path: "/pages/our-work/idn-position-paper-for-cop31"
       file: content/en/pages/our-work/idn-position-paper-for-cop31/_index.html
-    - title: Principles Governing Entrepreneurship in Degrowth
-      slug: principles-governing-entrepreneurship-in-degrowth
+    - title: Principles for Degrowth Businesses
+      slug: principles-for-degrowth-businesses
       target: https://www.degrowth.network/news/2026-11-24-debusiness-a-postcapitalist-business/
       kind: url
       new_tab: false
